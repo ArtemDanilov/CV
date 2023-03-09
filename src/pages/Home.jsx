@@ -1,9 +1,13 @@
 import React from 'react';
 
-const Home = () => {
+import Sidebar from "./sections/Sidebar/index";
+
+const Home = (props) => {
     return (
-        <div></div>
+        <main className="max-w-7xl mx-auto xl:my-8 xl:shadow-lg">
+            <Sidebar content={ props.content } />
+        </main>
     )
-} 
+}
 
 export default Home;

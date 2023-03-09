@@ -1,0 +1,33 @@
+@page {
+    size: A4;
+    margin: 0mm !important;
+}
+
+@media print {
+    html {
+        @apply text-[80%];
+    }
+
+    main {
+        @apply h-screen;
+    }
+
+    aside {
+        @apply w-1/3;
+
+        img {
+            @apply block #{!important};
+        }
+
+        .name-and-position {
+            @apply text-center #{!important};
+            
+            h1 {
+                @apply text-3xl #{!important};
+            }
+            strong {
+                @apply text-base #{!important};
+            }
+        }
+    }
+}
