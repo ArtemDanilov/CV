@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Roboto mono";
+    src: url("../fonts/roboto-mono-thin.woff") format("woff"),
+         url("../fonts/roboto-mono-thin.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Roboto mono";
+    src: url("../fonts/roboto-mono-regular.woff") format("woff"),
+         url("../fonts/roboto-mono-regular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Roboto mono";
+    src: url("../fonts/roboto-mono-bold.woff") format("woff"),
+         url("../fonts/roboto-mono-bold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
