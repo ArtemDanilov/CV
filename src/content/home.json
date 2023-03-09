@@ -1,0 +1,73 @@
+{
+    "fullName":"Artem Danilov",
+    "position":"Frontend developer",
+    "contact_title":"Dane kontaktowe",
+    "email":"artemdanilow95@gmail.com",
+    "phone":"+48797667497",
+    "sections":[
+       {
+          "id": "H2K4M5N7Q8",
+          "title":"Umiejętnosci",
+          "items":[
+            {
+               "id": "P7R9SATCVD",
+               "name": "HTML"
+            },
+            {
+               "id": "4N6P7Q9SAT",
+               "name": "Css,Sass"
+            },
+            {
+               "id": "J3K4M6P7Q8",
+               "name": "Tailwindcss"
+            },
+            {
+               "id": "YGZH3K4M5P",
+               "name": "Javascript"
+            },
+            {
+               "id": "DWEYGZH2K4",
+               "name": "Alpine.js"
+            },
+            {
+               "id": "TBVDWEXGZH",
+               "name": "Statamic CMS"
+            },
+            {
+               "id": "8SATBUDWEX",
+               "name": "Figma"
+            },
+            {
+               "id": "P7Q8RATBUC",
+               "name": "Git"
+            },
+            {
+               "id": "SATBVDWEXG",
+               "name": "ReactJS (uczę się)"
+            },
+            {
+               "id": "M5P7Q8R9TB",
+               "name": "NodeJS (uczę się)"
+            }
+          ]
+       },
+       {
+          "id": "Q8SATBUCWE",
+          "title": "Języki",
+          "items":[
+            {
+               "id": "4M5N7Q8R9S",
+               "name": "polski (biegły)"
+            },
+            {
+               "id": "H2J4M5N6P8",
+               "name": "rosyjski (ojczysty)"
+            },
+            {
+               "id": "ZH2J4M5N6Q",
+               "name": "angielski (komunikatywny)"
+            }
+          ]
+       }
+    ]
+ }
