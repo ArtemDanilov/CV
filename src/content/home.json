@@ -156,5 +156,33 @@
             ]
          }
       ]
+   },
+   "education": {
+      "id": "ATBUCWEXFY",
+      "title": "Wykształcenie",
+      "headings_color": "#3B82F6",
+      "items": [
+         {
+            "id": "Q8R9TBUCVE",
+            "institution": "Studium policealne medycyny sportu",
+            "education_title": "Wykształcenie zawodowe",
+            "time": "2017 - 2019",
+            "description": "kierunek: Technik masażysta"
+         },
+         {
+            "id": "5N6Q8R9SBU",
+            "institution": "Liceum Ogólnokształcące im. Świętego Stanisława Kostki",
+            "education_title": "Wykształcenie średnie",
+            "time": "2014 - 2017",
+            "description": ""
+         },
+         {
+            "id": "J3M5N6P8R9",
+            "institution": "Tashkent Professional college of information technologies",
+            "education_title": "",
+            "time": "2011 - 2013",
+            "description": "kierunek: Grafika komputerowa i multimedia"
+         }
+      ]
    }
  }

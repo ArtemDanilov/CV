@@ -3,8 +3,8 @@ import React from 'react'
 import Container from '../../../../components/MainContainer';
 import Item from './item';
 
-const Experience = (props) => {
-    const data = props.content.experience;
+const Education = (props) => {
+    const data = props.content.education;
     const color = data.headings_color;
 
     return (
@@ -20,4 +20,4 @@ const Experience = (props) => {
     )
 }
 
-export default Experience;
+export default Education;
