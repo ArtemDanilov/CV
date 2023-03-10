@@ -14,7 +14,7 @@ const Sidebar = (props) => {
     const data = props.content;
 
     return (
-        <aside className="bg-zinc-700 text-zinc-200 min-w-[20rem] md:w-1/3 h-full">
+        <aside className="bg-zinc-700 text-zinc-200 w-full h-full">
             <div className="w-full h-auto">
                 <Image
                     url={ avatar }

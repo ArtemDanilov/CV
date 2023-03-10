@@ -9,12 +9,10 @@
     }
 
     main {
-        @apply h-screen;
+        @apply grid grid-cols-[35%,65%] h-screen;
     }
 
     aside {
-        @apply w-1/3;
-
         img {
             @apply block #{!important};
         }
@@ -28,6 +26,18 @@
             strong {
                 @apply text-base #{!important};
             }
+        }
+    }
+
+    .experience {
+        h3 {
+            @apply text-xl;
+        }
+        p {
+            @apply text-base;
+        }
+        ul > li {
+            @apply text-base;
         }
     }
 }
