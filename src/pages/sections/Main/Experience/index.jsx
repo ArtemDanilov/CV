@@ -3,7 +3,7 @@ import React from 'react'
 import Container from '../../../../components/MainContainer';
 import Item from './item';
 
-const Main = (props) => {
+const Experience = (props) => {
     const data = props.content.experience;
     const color = data.headings_color;
 
@@ -20,4 +20,4 @@ const Main = (props) => {
     )
 }
 
-export default Main;
+export default Experience;
