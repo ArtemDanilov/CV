@@ -5,12 +5,17 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from './pages/Home';
 import './scss/tailwind.scss'
 
-import homeContent from './content/home.json';
+import homeContentPl from './content/pl/home.json';
+import homeContentEn from './content/en/home.json';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home content={ homeContent } />,
+    element: <Home content={ homeContentPl } />,
+  },
+  {
+    path: "/en",
+    element: <Home content={ homeContentEn } />,
   },
 ]);
 
