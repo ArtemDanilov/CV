@@ -5,7 +5,7 @@
     "email": "artemdanilow95@gmail.com",
     "phone": "+48797667497",
     "recruitment_agreement": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).",
-    "sections":[
+    "sidebar":[
        {
           "id": "H2K4M5N7Q8",
           "title": "Umiejętnosci",
@@ -67,6 +67,24 @@
             {
                "id": "ZH2J4M5N6Q",
                "name": "angielski (komunikatywny)"
+            }
+          ]
+       },
+       {
+          "id": "5N6P8R9SAU",
+          "title": "Zainteresowania",
+          "items":[
+            {
+               "id": "J3K5N6P7R9",
+               "name": "Tricking"
+            },
+            {
+               "id": "YG2J3K4N6P",
+               "name": "Gimnastyka sportowa"
+            },
+            {
+               "id": "DXFYGZJ3K4",
+               "name": "Podróże"
             }
           ]
        }

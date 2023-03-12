@@ -48,7 +48,7 @@ const Sidebar = (props) => {
                     </address>
                 </Container>
 
-                { data.sections.map(({title, items, id}) => {
+                { data.sidebar.map(({title, items, id}) => {
                     return (
                         <Container title={ title } key={ id }>
                             <ul className="list-disc space-y-1 pl-5">

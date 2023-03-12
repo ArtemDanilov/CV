@@ -5,7 +5,7 @@
    "email": "artemdanilow95@gmail.com",
    "phone": "+48797667497",
    "recruitment_agreement": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
-   "sections":[
+   "sidebar":[
       {
          "id": "H2K4M5N7Q8",
          "title": "Skills",
@@ -67,6 +67,24 @@
            {
               "id": "ZH2J4M5N6Q",
               "name": "angielski (communicative)"
+           }
+         ]
+      },
+      {
+         "id": "DWEXGZH2J4",
+         "title": "Hobby",
+         "items":[
+           {
+              "id": "TBUDWEXFZH",
+              "name": "Tricking"
+           },
+           {
+              "id": "8RATBUCWEX",
+              "name": "Sport gymnastics"
+           },
+           {
+              "id": "N7Q8R9TBUC",
+              "name": "Travels"
            }
          ]
       }
