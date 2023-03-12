@@ -5,7 +5,7 @@ const Item = (props) => {
 
     return (
         <div className="experience-item">
-            <h3 className="text-lg font-mono font-bold tracking-widest uppercase mb-1 lg:text-xl" style={ props.style }>
+            <h3 className="text-base font-mono font-bold tracking-widest uppercase lg:text-lg" style={ props.style }>
                 { props.company }
             </h3>
             <p className="text-sm font-mono font-normal lg:text-base">

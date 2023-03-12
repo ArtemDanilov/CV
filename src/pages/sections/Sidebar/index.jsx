@@ -52,7 +52,7 @@ const Sidebar = (props) => {
                     return (
                         <Container title={ title } key={ id }>
                             <ul className="list-disc space-y-1 pl-5">
-                                { items.map(({name, id}) => <li key={ id } className="text-base font-mono">{ name }</li> ) }
+                                { items.map(({name, id}) => <li key={ id } className="text-sm font-mono lg:text-base">{ name }</li> ) }
                             </ul>
                         </Container>
                     )
