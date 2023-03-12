@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Container from '../../../../components/MainContainer';
+import Container from '../../../../components/Container';
 import Item from './item';
 
 const Experience = (props) => {
@@ -9,7 +9,7 @@ const Experience = (props) => {
 
     return (
         <section className="experience w-full p-4 lg:pl-8">
-            <Container title={ data.title } key={ data.id }>
+            <Container type="advanced" title={ data.title } key={ data.id }>
                 {
                     data.items.map( item => {
                         return <Item { ...item } key={ item.id } style={{ color: color }} />
