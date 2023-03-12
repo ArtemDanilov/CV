@@ -1,0 +1,47 @@
+@page {
+    size: A4;
+    margin: 0mm !important;
+}
+
+@media print {
+    html {
+        @apply text-[80%];
+    }
+
+    main {
+        @apply grid grid-cols-[35%,65%] h-screen;
+    }
+
+    aside {
+        img {
+            @apply block #{!important};
+        }
+
+        .name-and-position {
+            @apply text-center #{!important};
+            
+            h1 {
+                @apply text-3xl #{!important};
+            }
+            strong {
+                @apply text-base #{!important};
+            }
+        }
+    }
+
+    .experience {
+        h3 {
+            @apply text-lg;
+        }
+        p {
+            @apply text-base;
+        }
+        ul > li {
+            @apply text-base;
+        }
+    }
+
+    .rounded-link {
+        @apply hidden;
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "fullName": "Artem Danilov",
+    "position": "Frontend developer",
+    "contact_title": "Dane kontaktowe",
+    "email": "artemdanilow95@gmail.com",
+    "phone": "+48797667497",
+    "recruitment_agreement": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).",
+    "sidebar":[
+       {
+          "id": "H2K4M5N7Q8",
+          "title": "Umiejętnosci",
+          "items":[
+            {
+               "id": "P7R9SATCVD",
+               "name": "HTML"
+            },
+            {
+               "id": "4N6P7Q9SAT",
+               "name": "Css,Sass"
+            },
+            {
+               "id": "J3K4M6P7Q8",
+               "name": "Tailwindcss"
+            },
+            {
+               "id": "YGZH3K4M5P",
+               "name": "Javascript"
+            },
+            {
+               "id": "DWEYGZH2K4",
+               "name": "Alpine.js"
+            },
+            {
+               "id": "TBVDWEXGZH",
+               "name": "Statamic CMS"
+            },
+            {
+               "id": "8SATBUDWEX",
+               "name": "Figma"
+            },
+            {
+               "id": "P7Q8RATBUC",
+               "name": "Git"
+            },
+            {
+               "id": "SATBVDWEXG",
+               "name": "ReactJS (uczę się)"
+            },
+            {
+               "id": "M5P7Q8R9TB",
+               "name": "NodeJS (uczę się)"
+            }
+          ]
+       },
+       {
+          "id": "Q8SATBUCWE",
+          "title": "Języki",
+          "items":[
+            {
+               "id": "4M5N7Q8R9S",
+               "name": "polski (biegły)"
+            },
+            {
+               "id": "H2J4M5N6P8",
+               "name": "rosyjski (ojczysty)"
+            },
+            {
+               "id": "ZH2J4M5N6Q",
+               "name": "angielski (komunikatywny)"
+            }
+          ]
+       },
+       {
+          "id": "5N6P8R9SAU",
+          "title": "Zainteresowania",
+          "items":[
+            {
+               "id": "J3K5N6P7R9",
+               "name": "Tricking"
+            },
+            {
+               "id": "YG2J3K4N6P",
+               "name": "Gimnastyka sportowa"
+            },
+            {
+               "id": "DXFYGZJ3K4",
+               "name": "Podróże"
+            }
+          ]
+       }
+    ],
+   "experience": {
+      "id": "7Q8R9SBUCV",
+      "title": "Doświadczenie",
+      "headings_color": "#EC4889",
+      "items": [
+         {
+            "id": "P7R9SATCVD",
+            "company": "4dmind",
+            "position": "Frontend developer",
+            "time": "02.2021 - 02.2023",
+            "description": [
+               {
+                  "id": "ZH3K4M5P7Q",
+                  "text": "Tworzenie stron internetowych opartych o Statamic"
+               },
+               {
+                  "id": "EYGZH2K4M5",
+                  "text": "Edycja i poprawa jakości stron"
+               },
+               {
+                  "id": "VDWEXGZH2J",
+                  "text": "Przyspieszanie pracy stron (Lighthouse)"
+               },
+               {
+                  "id": "ATBUDWEXFZ",
+                  "text": "Tworzenie dokumentacji"
+               },
+               {
+                  "id": "Q8RATBUCWE",
+                  "text": "Migracja stron ze starszej wersji systemu"
+               },
+               {
+                  "id": "5N7Q8R9SBU",
+                  "text": "Robienie szkoleń z obługi systemu"
+               },
+               {
+                  "id": "J4M5N6P8R9",
+                  "text": "Wsparcie techniczne dla stałych klientów"
+               },
+               {
+                  "id": "ZH2J3K5N6P",
+                  "text": "Komunikacja z klientami (z Polski i zagranicy)"
+               }
+            ]
+         },
+         {
+            "id": "EXFYG2J3K4",
+            "company": "GRAWITACJA SPORT ACADEMY (PRACA DORYWCZA)",
+            "position": "Instruktor akrobatyki",
+            "time": "05.2018 - obecnie",
+            "description": [
+               {
+                  "id": "6P7Q8SATBU",
+                  "text": "Nauczanie elementów akrobatycznych/gimnastycznych"
+               },
+               {
+                  "id": "UCVDXFYGZJ",
+                  "text": "Prowadzenie zajęć indywidualnych i grupowych z dziećmi i młodzieżą"
+               }
+            ]
+         },
+         {
+            "id": "2K4M5N7Q8R",
+            "company": "DTMO GLOBAL",
+            "position": "Grafik komputerowy",
+            "time": "02.2018 - 08.2018",
+            "description": [
+               {
+                  "id": "6P7Q8SATBU",
+                  "text": "Zarządzanie stronami w CMS"
+               },
+               {
+                  "id": "AUCVDWFYGZ",
+                  "text": "Tworzenie obrazów"
+               },
+               {
+                  "id": "R9SATCVDWE",
+                  "text": "Tworzenie banerów reklamowych (statycznych i animowanych)"
+               },
+               {
+                  "id": "K4M6P7Q8SA",
+                  "text": "Proste przeróbki w kodzie z użyciem HTML i CSS"
+               }
+            ]
+         }
+      ]
+   },
+   "education": {
+      "id": "ATBUCWEXFY",
+      "title": "Wykształcenie",
+      "headings_color": "#3B82F6",
+      "items": [
+         {
+            "id": "Q8R9TBUCVE",
+            "institution": "Studium policealne medycyny sportu",
+            "education_title": "Wykształcenie zawodowe",
+            "time": "2017 - 2019",
+            "description": "kierunek: Technik masażysta"
+         },
+         {
+            "id": "5N6Q8R9SBU",
+            "institution": "Liceum Ogólnokształcące im. Świętego Stanisława Kostki",
+            "education_title": "Wykształcenie średnie",
+            "time": "2014 - 2017",
+            "description": ""
+         },
+         {
+            "id": "J3M5N6P8R9",
+            "institution": "Tashkent Professional college of information technologies",
+            "education_title": "",
+            "time": "2011 - 2013",
+            "description": "kierunek: Grafika komputerowa i multimedia"
+         }
+      ]
+   }
+ }
