@@ -7,15 +7,17 @@ import './scss/tailwind.scss'
 
 import homeContentPl from './content/pl/home.json';
 import homeContentEn from './content/en/home.json';
+import cvEn from './assets/files/cv_en.pdf';
+import cvPl from './assets/files/cv_pl.pdf';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home content={ homeContentPl } />,
+    element: <Home content={ homeContentPl } file={cvPl} />,
   },
   {
     path: "/en",
-    element: <Home content={ homeContentEn } />,
+    element: <Home content={ homeContentEn } file={cvEn} />,
   },
 ]);
 

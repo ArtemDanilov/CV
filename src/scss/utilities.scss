@@ -1,0 +1,8 @@
+.rounded-link {
+    @apply w-12 h-12 bg-white shadow-lg border border-zinc-200 border-opacity-50 flex justify-center items-center rounded-full cursor-pointer;
+    @apply hover:text-green-500 hover:border-green-500 hover:border-opacity-50;
+}
+
+.\!hidden {
+    @apply hidden #{!important};
+}
