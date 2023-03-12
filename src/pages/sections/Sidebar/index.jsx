@@ -5,8 +5,8 @@ import Image from '../../../components/Image';
 import Container from '../../../components/Container';
 
 import avatar from '../../../assets/avatar.webp';
-import { ReactComponent as Phone } from '../../../svg/phone.svg';
-import { ReactComponent as Email } from '../../../svg/email.svg';
+import { ReactComponent as Phone } from '../../../assets/svg/phone.svg';
+import { ReactComponent as Email } from '../../../assets/svg/email.svg';
 
 import './style.scss';
 
