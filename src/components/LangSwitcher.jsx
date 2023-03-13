@@ -4,12 +4,14 @@ const LangSwitcher = () => {
     const plSwitcher = useRef(null);
     const enSwitcher = useRef(null);
 
+    const publicUrl = process.env.PUBLIC_URL;
+
     const switcher = () => {
         const pathname = window.location.pathname;
-
-        if (pathname === '/en') {
+        
+        if (pathname === `${publicUrl}/en`) {
             plSwitcher.current.classList.remove('!hidden');
-        } else if (pathname === '/') {
+        } else if (pathname === publicUrl) {
             enSwitcher.current.classList.remove('!hidden');
         }
     };
@@ -20,8 +22,8 @@ const LangSwitcher = () => {
 
     return (
         <div>
-            <a ref={ plSwitcher } href="/" lang="pl" hrefLang="pl" className="rounded-link !hidden">PL</a>
-            <a ref={ enSwitcher } href="/en" lang="en" hrefLang="en" className="rounded-link !hidden">EN</a>
+            <a ref={ plSwitcher } href={publicUrl} lang="pl" hrefLang="pl" className="rounded-link !hidden">PL</a>
+            <a ref={ enSwitcher } href={ `${publicUrl}/en` } lang="en" hrefLang="en" className="rounded-link !hidden">EN</a>
         </div>
     )
 }
