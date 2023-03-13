@@ -6,19 +6,19 @@ const LangSwitcher = () => {
 
     const publicUrl = process.env.PUBLIC_URL;
 
-    const switcher = () => {
-        const pathname = window.location.pathname;
-        
-        if (pathname === `${publicUrl}/en`) {
-            plSwitcher.current.classList.remove('!hidden');
-        } else if (pathname === publicUrl) {
-            enSwitcher.current.classList.remove('!hidden');
-        }
-    };
-
     useEffect(() => {
+        const switcher = () => {
+            const pathname = window.location.pathname;
+            
+            if (pathname === `${publicUrl}/en`) {
+                plSwitcher.current.classList.remove('!hidden');
+            } else if (pathname === publicUrl) {
+                enSwitcher.current.classList.remove('!hidden');
+            }
+        };
+
         switcher();
-    },[])
+    },[publicUrl])
 
     return (
         <div>
