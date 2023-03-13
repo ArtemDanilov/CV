@@ -2,16 +2,16 @@ import {useRef, useEffect} from 'react';
 
 const Link = ({url, download, children}) => {
     const link = useRef(null);
-
-    const downloadable = () => {
-        if (download) {
-            link.current.setAttribute('download', download);
-        }
-    };
-
+    
     useEffect(() => {
+        const downloadable = () => {
+            if (download) {
+                link.current.setAttribute('download', download);
+            }
+        };
+
         downloadable();
-    },[]);
+    },[download]);
 
     return (
         <a
