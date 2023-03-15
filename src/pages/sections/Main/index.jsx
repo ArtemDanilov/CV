@@ -13,8 +13,8 @@ const Main = (props) => {
             <Experience content={ data } />
             <Education content={ data } />
             
-            <section className="mt-auto flex items-start p-4 pl-8 border-t">
-                <input type="checkbox" name="agreement" checked readOnly />
+            <section className="mt-auto flex items-start p-4 border-t md:pl-8">
+                <input type="checkbox" name="agreement" className="w-full max-w-[1rem]" checked readOnly />
                 <p className="text-xs italic pl-2">{ data.recruitment_agreement }</p>
             </section>
         </div>
