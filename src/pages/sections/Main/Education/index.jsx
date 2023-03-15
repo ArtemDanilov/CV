@@ -8,7 +8,7 @@ const Education = (props) => {
     const color = data.headings_color;
 
     return (
-        <section className="experience w-full p-4 lg:pl-8">
+        <section className="container w-full p-4 lg:pl-8">
             <Container type="advanced" title={ data.title } key={ data.id }>
                 {
                     data.items.map( item => {
