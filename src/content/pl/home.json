@@ -27,6 +27,10 @@
                "name": "Javascript"
             },
             {
+               "id": "SATBVDWEXG",
+               "name": "ReactJS"
+            },
+            {
                "id": "DWEYGZH2K4",
                "name": "Alpine.js"
             },
@@ -41,14 +45,6 @@
             {
                "id": "P7Q8RATBUC",
                "name": "Git"
-            },
-            {
-               "id": "SATBVDWEXG",
-               "name": "ReactJS (uczę się)"
-            },
-            {
-               "id": "M5P7Q8R9TB",
-               "name": "NodeJS (uczę się)"
             }
           ]
        },
@@ -88,7 +84,12 @@
             }
           ]
        }
-    ],
+   ],
+   "about": {
+      "id": "SATCVDWEYG",
+      "title": "Którko o mnie",
+      "text": "Piszę kod zawodowo od 2 lat, a przed rozpoczęciem pierwszej pracy jako programista, spędziłem rok na samodzielnej nauce. Potrafię tworzyć szybkie i responsywne strony internetowe z użyciem noweczesnych technologii. Cały czas uczę się nowych rzeczy, aby dostarczyć jak najlepsze rozwiązania."
+   },
    "experience": {
       "id": "7Q8R9SBUCV",
       "title": "Doświadczenie",
@@ -102,35 +103,35 @@
             "description": [
                {
                   "id": "ZH3K4M5P7Q",
-                  "text": "Tworzenie stron internetowych opartych o Statamic"
+                  "text": "Tworzenie i edycja stron internetowych, z użyciem takich technologii jak: HTML, CSS, Javascript, TailwindCss, Alpine.js"
                },
                {
                   "id": "EYGZH2K4M5",
-                  "text": "Edycja i poprawa jakości stron"
+                  "text": "Tworzenie reużywalnych componentów"
                },
                {
-                  "id": "VDWEXGZH2J",
-                  "text": "Przyspieszanie pracy stron (Lighthouse)"
-               },
-               {
-                  "id": "ATBUDWEXFZ",
-                  "text": "Tworzenie dokumentacji"
+                  "id": "CVDWFYGZH3",
+                  "text": "Migracja stron z innych CMS"
                },
                {
                   "id": "Q8RATBUCWE",
                   "text": "Migracja stron ze starszej wersji systemu"
                },
                {
+                  "id": "VDWEXGZH2J",
+                  "text": "Poprawianie stron pod względem szybkości i SEO"
+               },
+               {
+                  "id": "ATBUDWEXFZ",
+                  "text": "Tworzenie dokumentacji"
+               },
+               {
                   "id": "5N7Q8R9SBU",
-                  "text": "Robienie szkoleń z obługi systemu"
+                  "text": "Przeprowadzanie szkoleń z obługi CMS"
                },
                {
                   "id": "J4M5N6P8R9",
-                  "text": "Wsparcie techniczne dla stałych klientów"
-               },
-               {
-                  "id": "ZH2J3K5N6P",
-                  "text": "Komunikacja z klientami (z Polski i zagranicy)"
+                  "text": "Wsparcie techniczne dla klientów z Poslki i Zagranicy"
                }
             ]
          },
@@ -161,16 +162,16 @@
                   "text": "Zarządzanie stronami w CMS"
                },
                {
+                  "id": "K4M6P7Q8SA",
+                  "text": "Proste przeróbki w kodzie z użyciem HTML i CSS"
+               },
+               {
                   "id": "AUCVDWFYGZ",
                   "text": "Tworzenie obrazów"
                },
                {
                   "id": "R9SATCVDWE",
                   "text": "Tworzenie banerów reklamowych (statycznych i animowanych)"
-               },
-               {
-                  "id": "K4M6P7Q8SA",
-                  "text": "Proste przeróbki w kodzie z użyciem HTML i CSS"
                }
             ]
          }
