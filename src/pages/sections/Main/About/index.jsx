@@ -3,7 +3,7 @@ import React from 'react'
 import Container from '../../../../components/Container';
 
 const About = (props) => {
-    const data = props.content.about;
+    const data = props.content;
 
     return (
         <section className="container w-full p-4 lg:pl-8">

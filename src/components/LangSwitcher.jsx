@@ -1,31 +1,26 @@
-import { React, useRef, useEffect } from 'react';
+import React from 'react';
+import i18n from 'i18next'
 
 const LangSwitcher = () => {
-    const plSwitcher = useRef(null);
-    const enSwitcher = useRef(null);
+  const lngs = {
+    pl: { nativeName: 'PL' },
+    en: { nativeName: 'EN' }
+  };
 
-    const publicUrl = process.env.PUBLIC_URL;
-
-    useEffect(() => {
-        const switcher = () => {
-            const pathname = window.location.pathname;
-            
-            if (pathname === `${publicUrl}/en`) {
-                plSwitcher.current.classList.remove('!hidden');
-            } else if (pathname === publicUrl) {
-                enSwitcher.current.classList.remove('!hidden');
-            }
-        };
-
-        switcher();
-    },[publicUrl])
-
-    return (
-        <div>
-            <a ref={ plSwitcher } href={publicUrl} lang="pl" hrefLang="pl" className="rounded-link !hidden">PL</a>
-            <a ref={ enSwitcher } href={ `${publicUrl}/en` } lang="en" hrefLang="en" className="rounded-link !hidden">EN</a>
-        </div>
-    )
+  return (
+      <div>
+        {Object.keys(lngs).map((lng) => (
+          <button
+            key={lng}
+            type="submit"
+            className={ `rounded-link ${ i18n.resolvedLanguage === lng && '!hidden' }` }
+            onClick={() => i18n.changeLanguage(lng)}
+          >
+            {lngs[lng].nativeName}
+          </button>
+        ))}
+      </div>
+  )
 }
 
 export default LangSwitcher;

@@ -1,4 +1,5 @@
 import React from 'react'
+import { useTranslation } from 'react-i18next';
 import Obfuscate from 'react-obfuscate';
 
 import Image from '../../../components/Image';
@@ -10,8 +11,9 @@ import { ReactComponent as Email } from '../../../assets/svg/email.svg';
 
 import './style.scss';
 
-const Sidebar = (props) => {
-    const data = props.content;
+const Sidebar = () => {
+    const { t } = useTranslation();
+    const sidebar = t('sidebar', { returnObjects: true })
 
     return (
         <aside className="bg-zinc-700 text-zinc-200 w-full h-full">
@@ -28,27 +30,27 @@ const Sidebar = (props) => {
             <section className="main-info p-4">
                 <div className="name-and-position md:text-center">
                     <h1 className="text-6xl font-mono font-thin md:text-3xl lg:text-4xl">
-                        { data.fullName }
+                        { t('fullName') }
                     </h1>
                     <strong className="text-2xl tracking-widest font-normal md:text-base">
-                        { data.position }
+                        { t('position') }
                     </strong>
                 </div>
 
-                <Container title={ data.contact_title }>
+                <Container title={ t('contact_title') }>
                     <address className="not-italic space-y-1">
-                        <Obfuscate email={ data.email } className="link obfuscate">
+                        <Obfuscate email={ t('email') } className="link obfuscate">
                             <Email className="link_icon" />
-                            <span>{ data.email }</span>
+                            <span>{ t('email') }</span>
                         </Obfuscate>
-                        <Obfuscate tel={ data.phone } className="link obfuscate">
+                        <Obfuscate tel={ t('phone') } className="link obfuscate">
                             <Phone className="link_icon" />
-                            <span>{ data.phone }</span>
+                            <span>{ t('phone') }</span>
                         </Obfuscate>
                     </address>
                 </Container>
-
-                { data.sidebar.map(({title, items, id}) => {
+                
+                { sidebar.map(({title, items, id}) => {
                     return (
                         <Container title={ title } key={ id }>
                             <ul className="list-disc space-y-1 pl-5">
