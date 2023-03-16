@@ -4,7 +4,7 @@ const Container = ({ children, title, type }) => {
     const isAdvanced = type === 'advanced';
 
     return (
-        <div className={ isAdvanced ? 'mt-1 space-y-4' : 'mt-10'}>
+        <div className={ isAdvanced ? 'mb-1 space-y-4' : 'mb-10 last:mb-0'}>
             { type === 'advanced' ? (
                     <div className="flex items-center mb-6">
                         <h2 className="w-full max-w-max text-2xl font-bold font-mono text-zinc-700 lg:text-3xl">

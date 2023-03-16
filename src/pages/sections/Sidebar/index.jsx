@@ -4,6 +4,7 @@ import Obfuscate from 'react-obfuscate';
 
 import Image from '../../../components/Image';
 import Container from '../../../components/Container';
+import NameAndPosition from '../../../components/NameAndPosition';
 
 import avatar from '../../../assets/avatar.webp';
 import { ReactComponent as Phone } from '../../../assets/svg/phone.svg';
@@ -28,14 +29,11 @@ const Sidebar = () => {
             </div>
 
             <section className="main-info p-4">
-                <div className="name-and-position md:text-center">
-                    <h1 className="text-6xl font-mono font-thin md:text-3xl lg:text-4xl">
-                        { t('fullName') }
-                    </h1>
-                    <strong className="text-2xl tracking-widest font-normal md:text-base">
-                        { t('position') }
-                    </strong>
-                </div>
+                <NameAndPosition
+                    fullName={ t('fullName') }
+                    position={ t('position') }
+                    classes="mb-10 md:hidden"
+                />
 
                 <Container title={ t('contact_title') }>
                     <address className="not-italic space-y-1">
