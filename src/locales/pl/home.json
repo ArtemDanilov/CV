@@ -8,7 +8,7 @@
     "sidebar":[
        {
           "id": "H2K4M5N7Q8",
-          "title": "Umiejętnosci",
+          "title": "Umiejętności",
           "items":[
             {
                "id": "P7R9SATCVD",
@@ -87,7 +87,7 @@
    ],
    "about": {
       "id": "SATCVDWEYG",
-      "title": "Którko o mnie",
+      "title": "Krótko o mnie",
       "text": "Piszę kod zawodowo od 2 lat, a przed rozpoczęciem pierwszej pracy jako programista, spędziłem rok na samodzielnej nauce. Potrafię tworzyć szybkie i responsywne strony internetowe z użyciem noweczesnych technologii. Cały czas uczę się nowych rzeczy, aby dostarczyć jak najlepsze rozwiązania."
    },
    "experience": {
