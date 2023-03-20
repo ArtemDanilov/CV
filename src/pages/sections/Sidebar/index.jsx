@@ -16,13 +16,13 @@ const Sidebar = () => {
 
     return (
         <aside className="bg-zinc-700 text-zinc-200 w-full h-full">
-            <div className="w-full h-auto">
+            <div className="avatar hidden w-full h-[32.5rem] p-4 pb-0 md:block">
                 <Image
                     url={ avatar }
                     width="427"
-                    height="560"
+                    height="520"
                     alt="Artem Danilov portrait"
-                    classes="hidden w-full h-full object-cover object-top md:block"
+                    classes="w-full h-full rounded-lg object-cover object-top"
                 />
             </div>
 

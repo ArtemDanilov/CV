@@ -13,7 +13,7 @@
     }
 
     aside {
-        img {
+        .avatar {
             @apply block #{!important};
         }
 
