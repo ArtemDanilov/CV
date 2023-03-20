@@ -4,7 +4,7 @@ const Item = (props) => {
     const description = props.description;
 
     return (
-        <div className="experience-item">
+        <div className="experience-item py-2">
             <h3 className="text-base font-mono font-bold tracking-widest uppercase lg:text-lg" style={ props.style }>
                 { props.company }
             </h3>

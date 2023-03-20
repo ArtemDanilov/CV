@@ -4,7 +4,7 @@ import SingleCheck from '../../../../Utilities/SingleCheck'
 
 const Item = (props) => {
     return (
-        <div className="experience-item">
+        <div className="education-item py-2">
             <h3 className="text-base font-mono font-bold tracking-widest uppercase lg:text-lg" style={ props.style }>
                 { props.institution }
             </h3>
