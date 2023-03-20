@@ -10,6 +10,7 @@
        {
           "id": "J3K4N6P7Q9",
           "title": "Portfolio",
+          "type": "links",
           "items":[
             {
                "id": "YGZJ3K4M6P",
@@ -36,6 +37,7 @@
        {
           "id": "H2K4M5N7Q8",
           "title": "Umiejętności",
+          "type": "unordered_list",
           "items":[
             {
                "id": "P7R9SATCVD",
@@ -78,6 +80,7 @@
        {
           "id": "Q8SATBUCWE",
           "title": "Języki",
+          "type": "unordered_list",
           "items":[
             {
                "id": "4M5N7Q8R9S",
@@ -96,6 +99,7 @@
        {
           "id": "5N6P8R9SAU",
           "title": "Zainteresowania",
+          "type": "unordered_list",
           "items":[
             {
                "id": "J3K5N6P7R9",
