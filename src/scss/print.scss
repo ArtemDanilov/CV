@@ -13,29 +13,37 @@
     }
 
     aside {
-        img {
+        .avatar {
             @apply block #{!important};
         }
 
+        .container {
+            break-inside: avoid;
+        }
+
         .name-and-position {
-            @apply text-center #{!important};
-            
-            h1 {
-                @apply text-3xl #{!important};
-            }
-            strong {
-                @apply text-base #{!important};
-            }
+            @apply hidden;
         }
     }
 
-    .experience {
+    .name-and-position {
+        @apply block;
+    }
+
+    .experience-item,
+    .education-item {
+        break-inside: avoid;
+    }
+
+    .container {  
         h3 {
             @apply text-lg;
         }
+
         p {
             @apply text-base;
         }
+
         ul > li {
             @apply text-base;
         }

@@ -1,22 +1,17 @@
 import React from 'react'
 
 import Container from '../../../../components/Container';
-import Item from './item';
 
-const Education = (props) => {
+const About = (props) => {
     const data = props.content;
 
     return (
         <section className="w-full p-4 lg:pl-8">
             <Container type="advanced" title={ data.title } key={ data.id }>
-                {
-                    data.items.map( item => {
-                        return <Item { ...item } key={ item.id } style={{ color: data.headings_color }} />
-                    })
-                }
+                <p>{ data.text }</p>
             </Container>
         </section>
     )
 }
 
-export default Education;
+export default About;

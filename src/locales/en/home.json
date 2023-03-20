@@ -7,6 +7,32 @@
    "recruitment_agreement": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
    "sidebar":[
       {
+         "id": "H2J3K5N6P7",
+         "title": "Portfolio",
+         "items":[
+           {
+              "id": "XFYG2J3K4N",
+              "name": "4dmind.com",
+              "link": "https://4dmind.com/"
+           },
+           {
+              "id": "CVDXFYGZJ3",
+              "name": "highlandsolutions.com",
+              "link": "https://highlandsolutions.com/"
+           },
+           {
+              "id": "SAUCVDWFYG",
+              "name": "rapidrobotics.com",
+              "link": "https://www.rapidrobotics.com/"
+           },
+           {
+              "id": "7R9SATBVDW",
+              "name": "mathriders.pl",
+              "link": "https://mathriders.pl/"
+           }
+         ]
+      },
+      {
          "id": "H2K4M5N7Q8",
          "title": "Skills",
          "items":[
@@ -27,6 +53,10 @@
               "name": "Javascript"
            },
            {
+               "id": "SATBVDWEXG",
+               "name": "ReactJS"
+           },
+           {
               "id": "DWEYGZH2K4",
               "name": "Alpine.js"
            },
@@ -41,14 +71,6 @@
            {
               "id": "P7Q8RATBUC",
               "name": "Git"
-           },
-           {
-              "id": "SATBVDWEXG",
-              "name": "ReactJS (learning)"
-           },
-           {
-              "id": "M5P7Q8R9TB",
-              "name": "NodeJS (learning)"
            }
          ]
       },
@@ -89,6 +111,11 @@
          ]
       }
    ],
+   "about": {
+      "id": "7Q9SATBVDW",
+      "title": "About me",
+      "text": "I have been writing code professionally for two years, and before starting my first job as a programmer, I spent one year at self-study. I can create fast and responsive pages with modern technologies. I have been learning new features all the time to provide the best solutions."
+   },
   "experience": {
      "id": "7Q8R9SBUCV",
      "title": "Experience",
@@ -102,35 +129,35 @@
            "description": [
               {
                  "id": "ZH3K4M5P7Q",
-                 "text": "Creating web pages with Statamic"
+                 "text": "Creating i editing web pages, using technologies such as: HTML, CSS, Javascript, TailwindCss, Alpine.js"
               },
               {
                  "id": "EYGZH2K4M5",
-                 "text": "Editing and optimising code"
+                 "text": "Creating reusable components"
+              },
+              {
+               "id": "ATBUDWEXFZ",
+               "text": "Migration from the old to the new version of CMS"
+              },
+              {
+               "id": "5N7Q8R9SBU",
+               "text": "Migration from other CMS"
               },
               {
                  "id": "VDWEXGZH2J",
-                 "text": "Increase performance (Lighthouse)"
+                 "text": "Improvement performance and SEO"
               },
               {
                "id": "ZH2J3K5N6P",
                "text": "Creating documentations"
               },
               {
-                 "id": "ATBUDWEXFZ",
-                 "text": "Migration from the old to the new version of CMS"
-              },
-              {
                  "id": "Q8RATBUCWE",
                  "text": "Introducing customers to the system"
               },
               {
-                 "id": "5N7Q8R9SBU",
-                 "text": "Support for companies"
-              },
-              {
                  "id": "J4M5N6P8R9",
-                 "text": "Communication with Polish and foreign customers"
+                 "text": "Support for customers from Poland and abroad"
               }
            ]
         },
@@ -161,16 +188,16 @@
                  "text": "Management pages in CMS"
               },
               {
+               "id": "K4M6P7Q8SA",
+               "text": "Simple changes in code using HTML and CSS"
+              },
+              {
                  "id": "AUCVDWFYGZ",
                  "text": "Creating pictures"
               },
               {
                  "id": "R9SATCVDWE",
                  "text": "Creating advertising banners (static and animated)"
-              },
-              {
-                 "id": "K4M6P7Q8SA",
-                 "text": "Simple changes in code using HTML and CSS"
               }
            ]
         }
