@@ -5,6 +5,7 @@ import Image from '../../../components/Image';
 import Container from '../../../components/Container';
 import NameAndPosition from '../../../components/NameAndPosition';
 import Contact from '../../../components/Contact';
+import Item from './item';
 
 import avatar from '../../../assets/avatar.webp';
 
@@ -35,27 +36,11 @@ const Sidebar = () => {
 
                 <Contact />
                 
-                { sidebar.map(({title, items, id}) => {
+                { sidebar.map(({id, title, type, items}) => {
                     return (
                         <Container title={ title } key={ id }>
-                            <ul className="list-disc space-y-1 pl-5">
-                                { items.map(({id, name, link}) => (
-                                    <li key={ id } className="text-sm font-mono lg:text-base">
-                                        { link ? (
-                                            <a
-                                                href={ link }
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                className="link"
-                                            >
-                                                { name }
-                                            </a>
-                                        ) : (
-                                            <p>{ name }</p>
-                                        )}
-                                    </li> 
-                                ))
-                                }
+                            <ul className={ `${type !== 'links' && 'list-disc pl-5'} space-y-1` }>
+                                { items.map((item) => <Item {...item} key={item.id} /> )}
                             </ul>
                         </Container>
                     )
