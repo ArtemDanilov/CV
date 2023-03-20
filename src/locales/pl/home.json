@@ -4,8 +4,35 @@
     "contact_title": "Dane kontaktowe",
     "email": "artemdanilow95@gmail.com",
     "phone": "+48797667497",
+    "github": "https://github.com/ArtemDanilov",
     "recruitment_agreement": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).",
     "sidebar":[
+       {
+          "id": "J3K4N6P7Q9",
+          "title": "Portfolio",
+          "items":[
+            {
+               "id": "YGZJ3K4M6P",
+               "name": "4dmind.com",
+               "link": "https://4dmind.com/"
+            },
+            {
+               "id": "4M5N7Q8R9T",
+               "name": "highlandsolutions.com",
+               "link": "https://highlandsolutions.com/"
+            },
+            {
+               "id": "9SATBVDWEX",
+               "name": "rapidrobotics.com",
+               "link": "https://www.rapidrobotics.com/"
+            },
+            {
+               "id": "TCVDWEYGZH",
+               "name": "mathriders.pl",
+               "link": "https://mathriders.pl/"
+            }
+          ]
+       },
        {
           "id": "H2K4M5N7Q8",
           "title": "Umiejętności",
@@ -88,7 +115,7 @@
    "about": {
       "id": "SATCVDWEYG",
       "title": "Krótko o mnie",
-      "text": "Piszę kod zawodowo od 2 lat, a przed rozpoczęciem pierwszej pracy jako programista, spędziłem rok na samodzielnej nauce. Potrafię tworzyć szybkie i responsywne strony internetowe z użyciem noweczesnych technologii. Cały czas uczę się nowych rzeczy, aby dostarczyć jak najlepsze rozwiązania."
+      "text": "Piszę kod zawodowo od 2 lat, a przed rozpoczęciem pierwszej pracy jako programista, spędziłem rok na samodzielnej nauce. Potrafię tworzyć szybkie i responsywne strony internetowe z użyciem nowoczesnych technologii. Cały czas uczę się nowych rzeczy, aby dostarczyć jak najlepsze rozwiązania."
    },
    "experience": {
       "id": "7Q8R9SBUCV",

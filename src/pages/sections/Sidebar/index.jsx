@@ -1,14 +1,12 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next';
-import Obfuscate from 'react-obfuscate';
 
 import Image from '../../../components/Image';
 import Container from '../../../components/Container';
 import NameAndPosition from '../../../components/NameAndPosition';
+import Contact from '../../../components/Contact';
 
 import avatar from '../../../assets/avatar.webp';
-import { ReactComponent as Phone } from '../../../assets/svg/phone.svg';
-import { ReactComponent as Email } from '../../../assets/svg/email.svg';
 
 import './style.scss';
 
@@ -35,24 +33,29 @@ const Sidebar = () => {
                     classes="mb-10 md:hidden"
                 />
 
-                <Container title={ t('contact_title') }>
-                    <address className="not-italic space-y-1">
-                        <Obfuscate email={ t('email') } className="link obfuscate">
-                            <Email className="link_icon" />
-                            <span>{ t('email') }</span>
-                        </Obfuscate>
-                        <Obfuscate tel={ t('phone') } className="link obfuscate">
-                            <Phone className="link_icon" />
-                            <span>{ t('phone') }</span>
-                        </Obfuscate>
-                    </address>
-                </Container>
+                <Contact />
                 
                 { sidebar.map(({title, items, id}) => {
                     return (
                         <Container title={ title } key={ id }>
                             <ul className="list-disc space-y-1 pl-5">
-                                { items.map(({name, id}) => <li key={ id } className="text-sm font-mono lg:text-base">{ name }</li> ) }
+                                { items.map(({id, name, link}) => (
+                                    <li key={ id } className="text-sm font-mono lg:text-base">
+                                        { link ? (
+                                            <a
+                                                href={ link }
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="link"
+                                            >
+                                                { name }
+                                            </a>
+                                        ) : (
+                                            <p>{ name }</p>
+                                        )}
+                                    </li> 
+                                ))
+                                }
                             </ul>
                         </Container>
                     )
