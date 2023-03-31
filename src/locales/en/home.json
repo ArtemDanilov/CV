@@ -1,234 +1,234 @@
 {
-   "fullName": "Artem Danilov",
-   "position": "Frontend developer",
-   "contact_title": "Contact",
-   "email": "artemdanilow95@gmail.com",
-   "phone": "+48797667497",
-   "recruitment_agreement": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
-   "sidebar":[
-      {
-         "id": "H2J3K5N6P7",
-         "title": "Portfolio",
-         "items":[
-           {
-              "id": "XFYG2J3K4N",
-              "name": "4dmind.com",
-              "link": "https://4dmind.com/"
-           },
-           {
-              "id": "CVDXFYGZJ3",
-              "name": "highlandsolutions.com",
-              "link": "https://highlandsolutions.com/"
-           },
-           {
-              "id": "SAUCVDWFYG",
-              "name": "rapidrobotics.com",
-              "link": "https://www.rapidrobotics.com/"
-           },
-           {
-              "id": "7R9SATBVDW",
-              "name": "mathriders.pl",
-              "link": "https://mathriders.pl/"
-           }
-         ]
-      },
-      {
-         "id": "H2K4M5N7Q8",
-         "title": "Skills",
-         "items":[
-           {
-              "id": "P7R9SATCVD",
-              "name": "HTML"
-           },
-           {
-              "id": "4N6P7Q9SAT",
-              "name": "Css,Sass"
-           },
-           {
-              "id": "J3K4M6P7Q8",
-              "name": "Tailwindcss"
-           },
-           {
-              "id": "YGZH3K4M5P",
-              "name": "Javascript"
-           },
-           {
-               "id": "SATBVDWEXG",
-               "name": "ReactJS"
-           },
-           {
-              "id": "DWEYGZH2K4",
-              "name": "Alpine.js"
-           },
-           {
-              "id": "TBVDWEXGZH",
-              "name": "Statamic CMS"
-           },
-           {
-              "id": "8SATBUDWEX",
-              "name": "Figma"
-           },
-           {
-              "id": "P7Q8RATBUC",
-              "name": "Git"
-           }
-         ]
-      },
-      {
-         "id": "Q8SATBUCWE",
-         "title": "Languages",
-         "items":[
-           {
-              "id": "4M5N7Q8R9S",
-              "name": "polski (fluent)"
-           },
-           {
-              "id": "H2J4M5N6P8",
-              "name": "rosyjski (native)"
-           },
-           {
-              "id": "ZH2J4M5N6Q",
-              "name": "angielski (communicative)"
-           }
-         ]
-      },
-      {
-         "id": "DWEXGZH2J4",
-         "title": "Hobby",
-         "items":[
-           {
-              "id": "TBUDWEXFZH",
-              "name": "Tricking"
-           },
-           {
-              "id": "8RATBUCWEX",
-              "name": "Sport gymnastics"
-           },
-           {
-              "id": "N7Q8R9TBUC",
-              "name": "Travels"
-           }
-         ]
-      }
-   ],
-   "about": {
-      "id": "7Q9SATBVDW",
-      "title": "About me",
-      "text": "I have been writing code professionally for two years, and before starting my first job as a programmer, I spent one year at self-study. I can create fast and responsive pages with modern technologies. I have been learning new features all the time to provide the best solutions."
-   },
-  "experience": {
-     "id": "7Q8R9SBUCV",
-     "title": "Experience",
-     "headings_color": "#EC4889",
-     "items": [
+  "fullName": "Artem Danilov",
+  "position": "Frontend developer",
+  "contact_title": "Contact",
+  "email": "artemdanilow95@gmail.com",
+  "phone": "+48797667497",
+  "recruitment_agreement": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
+  "sidebar": [
+    {
+      "id": "H2J3K5N6P7",
+      "title": "Portfolio",
+      "items": [
         {
-           "id": "P7R9SATCVD",
-           "company": "4dmind",
-           "position": "Frontend developer",
-           "time": "02.2021 - 02.2023",
-           "description": [
-              {
-                 "id": "ZH3K4M5P7Q",
-                 "text": "Creating i editing web pages, using technologies such as: HTML, CSS, Javascript, TailwindCss, Alpine.js"
-              },
-              {
-                 "id": "EYGZH2K4M5",
-                 "text": "Creating reusable components"
-              },
-              {
-               "id": "ATBUDWEXFZ",
-               "text": "Migration from the old to the new version of CMS"
-              },
-              {
-               "id": "5N7Q8R9SBU",
-               "text": "Migration from other CMS"
-              },
-              {
-                 "id": "VDWEXGZH2J",
-                 "text": "Improvement performance and SEO"
-              },
-              {
-               "id": "ZH2J3K5N6P",
-               "text": "Creating documentations"
-              },
-              {
-                 "id": "Q8RATBUCWE",
-                 "text": "Introducing customers to the system"
-              },
-              {
-                 "id": "J4M5N6P8R9",
-                 "text": "Support for customers from Poland and abroad"
-              }
-           ]
+          "id": "XFYG2J3K4N",
+          "name": "4dmind.com",
+          "link": "https://4dmind.com/"
         },
         {
-           "id": "EXFYG2J3K4",
-           "company": "GRAWITACJA SPORT ACADEMY (EXTRA JOB)",
-           "position": "Acrobatics instructor",
-           "time": "05.2018 - obecnie",
-           "description": [
-              {
-                 "id": "6P7Q8SATBU",
-                 "text": "Teaching elements of acrobatics/gymnastics"
-              },
-              {
-                 "id": "UCVDXFYGZJ",
-                 "text": "Conducting personal and group classes for children"
-              }
-           ]
+          "id": "CVDXFYGZJ3",
+          "name": "highlandsolutions.com",
+          "link": "https://highlandsolutions.com/"
         },
         {
-           "id": "2K4M5N7Q8R",
-           "company": "DTMO GLOBAL",
-           "position": "Computer graphic",
-           "time": "02.2018 - 08.2018",
-           "description": [
-              {
-                 "id": "6P7Q8SATBU",
-                 "text": "Management pages in CMS"
-              },
-              {
-               "id": "K4M6P7Q8SA",
-               "text": "Simple changes in code using HTML and CSS"
-              },
-              {
-                 "id": "AUCVDWFYGZ",
-                 "text": "Creating pictures"
-              },
-              {
-                 "id": "R9SATCVDWE",
-                 "text": "Creating advertising banners (static and animated)"
-              }
-           ]
+          "id": "SAUCVDWFYG",
+          "name": "rapidrobotics.com",
+          "link": "https://www.rapidrobotics.com/"
+        },
+        {
+          "id": "7R9SATBVDW",
+          "name": "mathriders.pl",
+          "link": "https://mathriders.pl/"
         }
-     ]
+      ]
+    },
+    {
+      "id": "H2K4M5N7Q8",
+      "title": "Skills",
+      "items": [
+        {
+          "id": "P7R9SATCVD",
+          "name": "HTML"
+        },
+        {
+          "id": "4N6P7Q9SAT",
+          "name": "Css,Sass"
+        },
+        {
+          "id": "J3K4M6P7Q8",
+          "name": "Tailwindcss"
+        },
+        {
+          "id": "YGZH3K4M5P",
+          "name": "Javascript"
+        },
+        {
+          "id": "SATBVDWEXG",
+          "name": "ReactJS"
+        },
+        {
+          "id": "DWEYGZH2K4",
+          "name": "Alpine.js"
+        },
+        {
+          "id": "TBVDWEXGZH",
+          "name": "Statamic CMS"
+        },
+        {
+          "id": "8SATBUDWEX",
+          "name": "Figma"
+        },
+        {
+          "id": "P7Q8RATBUC",
+          "name": "Git"
+        }
+      ]
+    },
+    {
+      "id": "Q8SATBUCWE",
+      "title": "Languages",
+      "items": [
+        {
+          "id": "4M5N7Q8R9S",
+          "name": "polish (fluent)"
+        },
+        {
+          "id": "H2J4M5N6P8",
+          "name": "russian (native)"
+        },
+        {
+          "id": "ZH2J4M5N6Q",
+          "name": "english (communicative)"
+        }
+      ]
+    },
+    {
+      "id": "DWEXGZH2J4",
+      "title": "Hobby",
+      "items": [
+        {
+          "id": "TBUDWEXFZH",
+          "name": "Tricking"
+        },
+        {
+          "id": "8RATBUCWEX",
+          "name": "Sport gymnastics"
+        },
+        {
+          "id": "N7Q8R9TBUC",
+          "name": "Travels"
+        }
+      ]
+    }
+  ],
+  "about": {
+    "id": "7Q9SATBVDW",
+    "title": "About me",
+    "text": "I have been writing code professionally for two years, and before starting my first job as a programmer, I spent one year at self-study. I can create fast and responsive pages with modern technologies. I have been learning new features all the time to provide the best solutions."
+  },
+  "experience": {
+    "id": "7Q8R9SBUCV",
+    "title": "Experience",
+    "headings_color": "#EC4889",
+    "items": [
+      {
+        "id": "P7R9SATCVD",
+        "company": "4dmind",
+        "position": "Frontend developer",
+        "time": "02.2021 - 02.2023",
+        "description": [
+          {
+            "id": "ZH3K4M5P7Q",
+            "text": "Creating i editing web pages, using technologies such as: HTML, CSS, Javascript, TailwindCss, Alpine.js"
+          },
+          {
+            "id": "EYGZH2K4M5",
+            "text": "Creating reusable components"
+          },
+          {
+            "id": "ATBUDWEXFZ",
+            "text": "Migration from the old to the new version of CMS"
+          },
+          {
+            "id": "5N7Q8R9SBU",
+            "text": "Migration from other CMS"
+          },
+          {
+            "id": "VDWEXGZH2J",
+            "text": "Improvement performance and SEO"
+          },
+          {
+            "id": "ZH2J3K5N6P",
+            "text": "Creating documentations"
+          },
+          {
+            "id": "Q8RATBUCWE",
+            "text": "Introducing customers to the system"
+          },
+          {
+            "id": "J4M5N6P8R9",
+            "text": "Support for customers from Poland and abroad"
+          }
+        ]
+      },
+      {
+        "id": "EXFYG2J3K4",
+        "company": "GRAWITACJA SPORT ACADEMY (EXTRA JOB)",
+        "position": "Acrobatics instructor",
+        "time": "05.2018 - obecnie",
+        "description": [
+          {
+            "id": "6P7Q8SATBU",
+            "text": "Teaching elements of acrobatics/gymnastics"
+          },
+          {
+            "id": "UCVDXFYGZJ",
+            "text": "Conducting personal and group classes for children"
+          }
+        ]
+      },
+      {
+        "id": "2K4M5N7Q8R",
+        "company": "DTMO GLOBAL",
+        "position": "Computer graphic",
+        "time": "02.2018 - 08.2018",
+        "description": [
+          {
+            "id": "6P7Q8SATBU",
+            "text": "Management pages in CMS"
+          },
+          {
+            "id": "K4M6P7Q8SA",
+            "text": "Simple changes in code using HTML and CSS"
+          },
+          {
+            "id": "AUCVDWFYGZ",
+            "text": "Creating pictures"
+          },
+          {
+            "id": "R9SATCVDWE",
+            "text": "Creating advertising banners (static and animated)"
+          }
+        ]
+      }
+    ]
   },
   "education": {
-     "id": "ATBUCWEXFY",
-     "title": "Education",
-     "headings_color": "#3B82F6",
-     "items": [
-        {
-           "id": "Q8R9TBUCVE",
-           "institution": "POST-SECONDARY COLLEGE OF SPORT MEDICINE",
-           "education_title": "Vocational education",
-           "time": "2017 - 2019",
-           "description": "specialisation: Massage therapist"
-        },
-        {
-           "id": "5N6Q8R9SBU",
-           "institution": "HIGH SCHOOL OF SAINT STANISLAWA KOSTKI",
-           "education_title": "Secondary education",
-           "time": "2014 - 2017",
-           "description": ""
-        },
-        {
-           "id": "J3M5N6P8R9",
-           "institution": "TASHKENT PROFESSIONAL COLLEGE OF INFORMATION TECHNOLOGIES",
-           "education_title": "",
-           "time": "2011 - 2013",
-           "description": "specialisation: multimedia and computer graphics"
-        }
-     ]
+    "id": "ATBUCWEXFY",
+    "title": "Education",
+    "headings_color": "#3B82F6",
+    "items": [
+      {
+        "id": "Q8R9TBUCVE",
+        "institution": "POST-SECONDARY COLLEGE OF SPORT MEDICINE",
+        "education_title": "Vocational education",
+        "time": "2017 - 2019",
+        "description": "specialisation: Massage therapist"
+      },
+      {
+        "id": "5N6Q8R9SBU",
+        "institution": "HIGH SCHOOL OF SAINT STANISLAWA KOSTKI",
+        "education_title": "Secondary education",
+        "time": "2014 - 2017",
+        "description": ""
+      },
+      {
+        "id": "J3M5N6P8R9",
+        "institution": "TASHKENT PROFESSIONAL COLLEGE OF INFORMATION TECHNOLOGIES",
+        "education_title": "",
+        "time": "2011 - 2013",
+        "description": "specialisation: multimedia and computer graphics"
+      }
+    ]
   }
 }
