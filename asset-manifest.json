@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/cv/static/css/main.05539bef.css",
-    "main.js": "/cv/static/js/main.2f245e04.js",
-    "static/media/cv_pl.pdf": "/cv/static/media/cv_pl.8d2cd669a2e9dda46c40.pdf",
-    "static/media/cv_en.pdf": "/cv/static/media/cv_en.dcdb373df80a74748683.pdf",
+    "main.js": "/cv/static/js/main.2cb2fd6f.js",
+    "static/media/Artem_Danilov_pl.pdf": "/cv/static/media/Artem_Danilov_pl.8d2cd669a2e9dda46c40.pdf",
+    "static/media/Artem_Danilov_en.pdf": "/cv/static/media/Artem_Danilov_en.dcdb373df80a74748683.pdf",
     "static/media/avatar.webp": "/cv/static/media/avatar.bde1673553d25b9ec171.webp",
     "static/media/RobotoMono-Light.woff": "/cv/static/media/RobotoMono-Light.0972145c867b5e95f8bb.woff",
     "static/media/RobotoMono-Bold.woff": "/cv/static/media/RobotoMono-Bold.8ffd2e60d073450628d7.woff",
@@ -21,10 +21,10 @@
     "static/media/link.svg": "/cv/static/media/link.cbd14dced9e980a56ab7290f549ee9c1.svg",
     "static/media/getFetch.cjs": "/cv/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.05539bef.css.map": "/cv/static/css/main.05539bef.css.map",
-    "main.2f245e04.js.map": "/cv/static/js/main.2f245e04.js.map"
+    "main.2cb2fd6f.js.map": "/cv/static/js/main.2cb2fd6f.js.map"
   },
   "entrypoints": [
     "static/css/main.05539bef.css",
-    "static/js/main.2f245e04.js"
+    "static/js/main.2cb2fd6f.js"
   ]
 }
