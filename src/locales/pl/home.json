@@ -8,33 +8,6 @@
   "recruitment_agreement": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).",
   "sidebar": [
     {
-      "id": "J3K4N6P7Q9",
-      "title": "Portfolio",
-      "type": "links",
-      "items": [
-        {
-          "id": "YGZJ3K4M6P",
-          "name": "4dmind.com",
-          "link": "https://4dmind.com/"
-        },
-        {
-          "id": "4M5N7Q8R9T",
-          "name": "highlandsolutions.com",
-          "link": "https://highlandsolutions.com/"
-        },
-        {
-          "id": "9SATBVDWEX",
-          "name": "rapidrobotics.com",
-          "link": "https://www.rapidrobotics.com/"
-        },
-        {
-          "id": "TCVDWEYGZH",
-          "name": "mathriders.pl",
-          "link": "https://mathriders.pl/"
-        }
-      ]
-    },
-    {
       "id": "H2K4M5N7Q8",
       "title": "Umiejętności",
       "type": "unordered_list",
@@ -84,15 +57,15 @@
       "items": [
         {
           "id": "4M5N7Q8R9S",
-          "name": "polski (biegły)"
+          "name": "polski (C2)"
         },
         {
           "id": "H2J4M5N6P8",
-          "name": "rosyjski (ojczysty)"
+          "name": "rosyjski (C2)"
         },
         {
           "id": "ZH2J4M5N6Q",
-          "name": "angielski (komunikatywny)"
+          "name": "angielski (B1)"
         }
       ]
     },
@@ -181,30 +154,6 @@
             "text": "Prowadzenie zajęć indywidualnych i grupowych z dziećmi i młodzieżą"
           }
         ]
-      },
-      {
-        "id": "2K4M5N7Q8R",
-        "company": "DTMO GLOBAL",
-        "position": "Grafik komputerowy",
-        "time": "02.2018 - 08.2018",
-        "description": [
-          {
-            "id": "6P7Q8SATBU",
-            "text": "Zarządzanie stronami w CMS"
-          },
-          {
-            "id": "K4M6P7Q8SA",
-            "text": "Proste przeróbki w kodzie z użyciem HTML i CSS"
-          },
-          {
-            "id": "AUCVDWFYGZ",
-            "text": "Tworzenie obrazów"
-          },
-          {
-            "id": "R9SATCVDWE",
-            "text": "Tworzenie banerów reklamowych (statycznych i animowanych)"
-          }
-        ]
       }
     ]
   },
@@ -219,6 +168,31 @@
         "education_title": "Wykształcenie zawodowe",
         "time": "2017 - 2019",
         "description": "kierunek: Technik masażysta"
+      }
+    ]
+  },
+  "portfolio": {
+    "id": "J3K4N6P7Q9",
+    "title": "Portfolio",
+    "headings_color": "#61C25E",
+    "items": [
+      {
+        "id": "YGZJ3K4M6P",
+        "name": "4dmind.com",
+        "link": "https://4dmind.com/",
+        "description": "Strona polskiej firmy zajmującej się produktami cyfrowymi w której miałem przyjemność pracować. To moja pierwsza strona którą zbudowałem komercyjnie w ramach nauki CMS Statamic."
+      },
+      {
+        "id": "4M5N7Q8R9T",
+        "name": "highlandsolutions.com",
+        "link": "https://highlandsolutions.com/",
+        "description": "Strona firmy z USA zajmująca się produktami cyfrowymi. Jedna z najładniejszych stron którą robiłem. Najbardziej byłem zadowolony z parallax effektu na samym dole strony, mimo że nie jest skomplikowane."
+      },
+      {
+        "id": "9SATBVDWEX",
+        "name": "rapidrobotics.com",
+        "link": "https://www.rapidrobotics.com/",
+        "description": "Strona firmy z USA zajmująca się budową robotów produkcyjnych. Strona wcześnie była zbudowana w React, co miało niegatywny wpływ na SEO. Również było sporo animacji, które spowolniały stronę. Strona była napisana od nowa z użyciem CMS Statamic."
       }
     ]
   }

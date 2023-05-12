@@ -4,6 +4,7 @@ import { useTranslation } from "react-i18next";
 import NameAndPosition from "../../../components/NameAndPosition";
 import Experience from "./Experience/index";
 import Education from "./Education/index";
+import Portfolio from "./Portfolio/index";
 import About from "./About/index";
 
 const Main = () => {
@@ -11,6 +12,7 @@ const Main = () => {
   const about = t("about", { returnObjects: true });
   const experience = t("experience", { returnObjects: true });
   const education = t("education", { returnObjects: true });
+  const portfolio = t("portfolio", { returnObjects: true });
 
   return (
     <div className="flex flex-col bg-zinc-100">
@@ -22,6 +24,7 @@ const Main = () => {
       <About content={about} />
       <Experience content={experience} />
       <Education content={education} />
+      <Portfolio content={portfolio} />
 
       <section className="agreement mt-auto flex items-start p-4 border-t md:pl-8">
         <input

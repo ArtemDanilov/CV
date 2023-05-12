@@ -3,7 +3,7 @@ import React from "react";
 import Container from "../../../../components/Container";
 import Item from "./item";
 
-const Experience = (props) => {
+const Portfolio = (props) => {
   const data = props.content;
 
   return (
@@ -23,4 +23,4 @@ const Experience = (props) => {
   );
 };
 
-export default Experience;
+export default Portfolio;

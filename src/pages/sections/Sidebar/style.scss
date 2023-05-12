@@ -1,12 +1,12 @@
 .link {
-    @apply text-sm font-mono block space-x-2 text-zinc-200 hover:text-green-500 lg:text-base;
+  @apply text-sm font-mono block space-x-2 hover:text-green-600 lg:text-base;
 
-    &_icon {
-        @apply inline-block w-10 h-10 text-current lg:w-12 lg:h-12;
-    }
+  &_icon {
+    @apply inline-block w-10 h-10 text-current lg:w-12 lg:h-12;
+  }
 }
 
 .obfuscate {
-    direction: ltr !important;
-    text-align: left !important;
+  direction: ltr !important;
+  text-align: left !important;
 }
