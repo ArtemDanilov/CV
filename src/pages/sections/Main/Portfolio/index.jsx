@@ -7,7 +7,7 @@ const Portfolio = (props) => {
   const data = props.content;
 
   return (
-    <section className="w-full p-4 lg:pl-8">
+    <section className="w-full p-3 lg:pl-8">
       <Container type="advanced" title={data.title} key={data.id}>
         {data.items.map((item) => {
           return (
