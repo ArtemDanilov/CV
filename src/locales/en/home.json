@@ -29,15 +29,19 @@
         },
         {
           "id": "SATBVDWEXG",
-          "name": "ReactJS"
+          "name": "React"
         },
         {
           "id": "9RTJVDW2XG",
           "name": "Next.js"
         },
         {
-          "id": "DWEYGZH2K4",
+          "id": "9R8JVDA2XG",
           "name": "Alpine.js"
+        },
+        {
+          "id": "DWEYGZH2K4",
+          "name": "REST API"
         },
         {
           "id": "9RTJ2DW0MG",
@@ -71,7 +75,7 @@
         },
         {
           "id": "ZH2J4M5N6Q",
-          "name": "english (B1)"
+          "name": "english (B1-B2)"
         }
       ]
     },
