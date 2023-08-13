@@ -29,19 +29,15 @@
         },
         {
           "id": "SATBVDWEXG",
-          "name": "React"
+          "name": "ReactJS"
         },
         {
           "id": "9RTJVDW2XG",
           "name": "Next.js"
         },
         {
-          "id": "9R8JVDA2XG",
-          "name": "Alpine.js"
-        },
-        {
           "id": "DWEYGZH2K4",
-          "name": "REST API"
+          "name": "Alpine.js"
         },
         {
           "id": "9RTJ2DW0MG",
@@ -75,7 +71,7 @@
         },
         {
           "id": "ZH2J4M5N6Q",
-          "name": "english (B1-B2)"
+          "name": "english (B1)"
         }
       ]
     },
@@ -101,7 +97,7 @@
   "about": {
     "id": "7Q9SATBVDW",
     "title": "About me",
-    "text": "I have been writing code professionally for two years, and before starting my first job as a programmer, I spent one year at self-study. I can create fast and responsive pages with modern technologies. I have been learning new features all the time to provide the best solutions."
+    "text": "I am passionate about programming and creating beautiful things. I have been programming for three years, and for the past two years, I have been working on commercial projects. Over the last six months, I have focused on learning React, Next.js, and Typescript technologies."
   },
   "experience": {
     "id": "7Q8R9SBUCV",
@@ -172,6 +168,13 @@
     "headings_color": "#3B82F6",
     "items": [
       {
+        "id": "KQR9T3UC8E",
+        "institution": "WIT Warsaw school of Information Technology",
+        "education_title": "Bachelor of Engineering",
+        "time": "2023",
+        "description": "specialisation: IT Management"
+      },
+      {
         "id": "Q8R9TBUCVE",
         "institution": "POST-SECONDARY COLLEGE OF SPORT MEDICINE",
         "education_title": "Vocational education",
@@ -186,22 +189,34 @@
     "headings_color": "#61C25E",
     "items": [
       {
-        "id": "XFYG2J3K4N",
+        "id": "YGZJ3K4M6P",
         "name": "4dmind.com",
         "link": "https://4dmind.com/",
-        "description": "The website of a Polish company specializing in digital products, where I had the pleasure to work. It is my first website that I built commercially as part of learning CMS Statamic."
+        "description": ""
       },
       {
-        "id": "CVDXFYGZJ3",
+        "id": "4M5N7Q8R9T",
         "name": "highlandsolutions.com",
         "link": "https://highlandsolutions.com/",
-        "description": "The website of a US company specializing in digital products. One of the nicest websites I have created. I was most satisfied with the parallax effect at the bottom of the page, even though it is not complicated."
+        "description": ""
       },
       {
-        "id": "SAUCVDWFYG",
+        "id": "9SATBVDWEX",
         "name": "rapidrobotics.com",
         "link": "https://www.rapidrobotics.com/",
-        "description": "The website of a US company specializing in building industrial robots. The website was initially built in React, which had a negative impact on SEO. There were also a lot of animations that slowed down the website. The site was rewritten using CMS Statamic."
+        "description": ""
+      },
+      {
+        "id": "9SATBVDW3X",
+        "name": "mathriders.pl",
+        "link": "https://mathriders.pl/",
+        "description": ""
+      },
+      {
+        "id": "9SATBFDWEX",
+        "name": "northendeavor.com",
+        "link": "https://northendeavor.com/",
+        "description": ""
       }
     ]
   }
