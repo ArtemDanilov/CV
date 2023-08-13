@@ -7,7 +7,7 @@ const Education = (props) => {
   const data = props.content;
 
   return (
-    <section className="w-full p-3 lg:pl-8">
+    <section className="w-full p-2.5 lg:pl-8 print:pl-8">
       <Container type="advanced" title={data.title} key={data.id}>
         {data.items.map((item) => {
           return (

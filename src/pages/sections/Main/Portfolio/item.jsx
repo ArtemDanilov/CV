@@ -2,7 +2,7 @@ import React from "react";
 
 const Item = (props) => {
   return (
-    <div className="experience-item py-2">
+    <div className="experience-item py-1">
       <h3
         className="text-base font-mono font-bold tracking-widest uppercase lg:text-lg"
         style={props.style}
