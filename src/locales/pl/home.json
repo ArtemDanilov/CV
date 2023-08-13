@@ -100,7 +100,7 @@
   "about": {
     "id": "SATCVDWEYG",
     "title": "Krótko o mnie",
-    "text": "Piszę kod zawodowo od 2 lat, a przed rozpoczęciem pierwszej pracy jako programista, spędziłem rok na samodzielnej nauce. Potrafię tworzyć szybkie i responsywne strony internetowe z użyciem nowoczesnych technologii. Cały czas uczę się nowych rzeczy, aby dostarczyć jak najlepsze rozwiązania."
+    "text": "Jestem pasjonatem programowania i tworzenia ładnych rzeczy. Programuję od trzech lat, a od dwóch lat realizuję projekty komercyjne. Przez ostatnie pół roku skoncentrowałem się na nauce technologii React, Next.js i Typescript."
   },
   "experience": {
     "id": "7Q8R9SBUCV",
@@ -119,7 +119,7 @@
           },
           {
             "id": "EYGZH2K4M5",
-            "text": "Tworzenie reużywalnych componentów"
+            "text": "Tworzenie reużywalnych komponentów"
           },
           {
             "id": "CVDWFYGZH3",
@@ -143,7 +143,7 @@
           },
           {
             "id": "J4M5N6P8R9",
-            "text": "Wsparcie techniczne dla klientów z Poslki i Zagranicy"
+            "text": "Wsparcie techniczne dla klientów z Polski i Zagranicy"
           }
         ]
       },
@@ -171,6 +171,13 @@
     "headings_color": "#3B82F6",
     "items": [
       {
+        "id": "K8R9TDUC8E",
+        "institution": "WIT Wyższa Szkoła Informatyki Stosowanej i Zarządzania",
+        "education_title": "Wykształcenie wyższe",
+        "time": "2023",
+        "description": "kierunek: Informatyczne techniki zarządzania"
+      },
+      {
         "id": "Q8R9TBUCVE",
         "institution": "Studium policealne medycyny sportu",
         "education_title": "Wykształcenie zawodowe",
@@ -188,19 +195,31 @@
         "id": "YGZJ3K4M6P",
         "name": "4dmind.com",
         "link": "https://4dmind.com/",
-        "description": "Strona polskiej firmy zajmującej się produktami cyfrowymi w której miałem przyjemność pracować. To moja pierwsza strona którą zbudowałem komercyjnie w ramach nauki CMS Statamic."
+        "description": ""
       },
       {
         "id": "4M5N7Q8R9T",
         "name": "highlandsolutions.com",
         "link": "https://highlandsolutions.com/",
-        "description": "Strona firmy z USA zajmująca się produktami cyfrowymi. Jedna z najładniejszych stron którą robiłem. Najbardziej byłem zadowolony z parallax effektu na samym dole strony, mimo że nie jest skomplikowane."
+        "description": ""
       },
       {
         "id": "9SATBVDWEX",
         "name": "rapidrobotics.com",
         "link": "https://www.rapidrobotics.com/",
-        "description": "Strona firmy z USA zajmująca się budową robotów produkcyjnych. Strona wcześnie była zbudowana w React, co miało niegatywny wpływ na SEO. Również było sporo animacji, które spowolniały stronę. Strona była napisana od nowa z użyciem CMS Statamic."
+        "description": ""
+      },
+      {
+        "id": "9SATBVDW3X",
+        "name": "mathriders.pl",
+        "link": "https://mathriders.pl/",
+        "description": ""
+      },
+      {
+        "id": "9SATBFDWEX",
+        "name": "northendeavor.com",
+        "link": "https://northendeavor.com/",
+        "description": ""
       }
     ]
   }
