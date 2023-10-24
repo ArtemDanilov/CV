@@ -1,6 +1,6 @@
 @page {
   size: A4;
-  margin: 0mm !important;
+  margin: 5mm 0mm !important;
 }
 
 @media print {
@@ -8,36 +8,36 @@
     font-size: 80%;
   }
 
-  main {
-    @apply grid grid-cols-[30%,70%] h-screen;
+  // main {
+  //   @apply grid grid-cols-[30%,70%] h-screen;
 
-    .agreement {
-      break-inside: avoid;
-    }
-  }
+  //   .agreement {
+  //     break-inside: avoid;
+  //   }
+  // }
 
-  aside {
-    .avatar {
-      @apply block #{!important};
-    }
+  // aside {
+  //   .avatar {
+  //     @apply block #{!important};
+  //   }
 
-    .container {
-      break-inside: avoid;
-    }
+  //   .container {
+  //     break-inside: avoid;
+  //   }
 
-    .name-and-position {
-      @apply hidden;
-    }
-  }
+  //   .name-and-position {
+  //     @apply hidden;
+  //   }
+  // }
 
-  .name-and-position {
-    @apply block;
-  }
+  // .name-and-position {
+  //   @apply block;
+  // }
 
-  .experience-item,
-  .education-item {
-    break-inside: avoid;
-  }
+  // .experience-item,
+  // .education-item {
+  //   break-inside: avoid;
+  // }
 
   .container {
     h3 {

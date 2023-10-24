@@ -1,25 +1,19 @@
 import React from "react";
 
-const Container = ({ children, title, type }) => {
-  const isAdvanced = type === "advanced";
-
+const Container = ({ children, title, className = "" }) => {
   return (
-    <div className={`container ${isAdvanced ? "mb-1" : "py-4 last:mb-0"}`}>
-      {type === "advanced" ? (
-        <div className="flex items-center mb-4">
-          <h2 className="w-full min-w-max max-w-max text-2xl font-bold font-mono text-zinc-700 lg:text-3xl">
-            {title}
-          </h2>
-          <hr className="w-full h-0.5 mx-4 bg-zinc-200" />
-        </div>
-      ) : (
-        <h2 className="text-xl font-normal font-mono text-zinc-200 mb-2 lg:text-2xl">
+    <section
+      className={`container max-w-4xl grid grid-cols-[30%,70%] border-b border-gray-200 items-start mx-auto ${className}`}
+    >
+      <div className="w-full py-4 col-start-1 col-end-2">
+        <h2 className="text-xl text-right font-bold font-sans text-zinc-700 mr-4">
           {title}
         </h2>
-      )}
-
-      {children}
-    </div>
+      </div>
+      <div className="col-start-2 col-end-3 py-4 pl-4 border-l border-gray-200">
+        {children}
+      </div>
+    </section>
   );
 };
 
