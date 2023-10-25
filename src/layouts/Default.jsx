@@ -11,17 +11,17 @@ const Default = () => {
   const { t } = useTranslation();
 
   return (
-    <React.Fragment>
+    <>
       <Outlet />
 
-      <div className="fixed top-4 right-4 space-y-2">
+      <div className="fixed top-4 right-4 space-y-2 print:hidden">
         <LangSwitcher />
         <Link url={t("file_to_download")} download="Artem_Danilov">
           <span className="sr-only">File to download</span>
           <File className="w-8 h-8" />
         </Link>
       </div>
-    </React.Fragment>
+    </>
   );
 };
 

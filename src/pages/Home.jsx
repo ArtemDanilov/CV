@@ -22,9 +22,9 @@ const Home = () => {
   const education = t("education", { returnObjects: true });
 
   return (
-    <main className="max-w-7xl mx-auto xl:my-8 xl:shadow-lg">
-      <div className="flex flex-col py-8 px-16">
-        <section className="flex justify-center items-center mb-12">
+    <main className="max-w-7xl mx-auto overflow-x-hidden xl:mt-8 xl:shadow-lg">
+      <div className="flex flex-col py-4 px-4 md:px-16 print:px-16">
+        <section className="flex flex-col justify-center items-center mb-12 md:flex-row print:flex-row">
           <div className="avatar aspect-square w-56 h-56 pb-0">
             <Image
               url={avatar}
@@ -34,7 +34,7 @@ const Home = () => {
               classes="w-full h-full rounded-full object-cover object-center"
             />
           </div>
-          <div className="w-max pl-12 space-y-4">
+          <div className="w-max space-y-4 md:pl-12 print:pl-12">
             <NameAndPosition
               fullName={t("fullName")}
               position={t("position")}
@@ -116,8 +116,8 @@ const Home = () => {
           </ul>
         </Container>
 
-        <section className="max-w-4xl mx-auto agreement mt-auto flex items-start p-4">
-          <p className="text-xs italic pl-2">{t("recruitment_agreement")}</p>
+        <section className="max-w-4xl mx-auto agreement flex items-start pt-4 mt-4 border-t md:mt-0 md:border-0 print:mt-0 print:border-0">
+          <p className="text-xs italic">{t("recruitment_agreement")}</p>
         </section>
       </div>
     </main>
