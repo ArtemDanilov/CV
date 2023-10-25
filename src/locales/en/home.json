@@ -3,107 +3,142 @@
   "position": "Frontend developer",
   "contact_title": "Contact",
   "email": "artemdanilow95@gmail.com",
-  "phone": "+48797667497",
+  "phone": "+48 797 667 497",
   "github": "https://github.com/ArtemDanilov",
+  "about_text": "I'm frontend developer with 2 years of professional experience building websites. Before starting my first job as a programmer, I spent almost a year seeking for knowledge and developing my programming skills. In March this year I decided to broaden my horizons and search for new challenges.",
   "recruitment_agreement": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
-  "sidebar": [
-    {
-      "id": "H2K4M5N7Q8",
-      "title": "Skills",
-      "items": [
-        {
-          "id": "P7R9SATCVD",
-          "name": "HTML"
-        },
-        {
-          "id": "4N6P7Q9SAT",
-          "name": "Css,Sass"
-        },
-        {
-          "id": "J3K4M6P7Q8",
-          "name": "Tailwindcss"
-        },
-        {
-          "id": "YGZH3K4M5P",
-          "name": "Javascript"
-        },
-        {
-          "id": "SATBVDWEXG",
-          "name": "ReactJS"
-        },
-        {
-          "id": "9RTJVDW2XG",
-          "name": "Next.js"
-        },
-        {
-          "id": "DWEYGZH2K4",
-          "name": "Alpine.js"
-        },
-        {
-          "id": "9RTJ2DW0MG",
-          "name": "Strapi CMS"
-        },
-        {
-          "id": "TBVDWEXGZH",
-          "name": "Statamic CMS"
-        },
-        {
-          "id": "8SATBUDWEX",
-          "name": "Figma"
-        },
-        {
-          "id": "P7Q8RATBUC",
-          "name": "Git"
-        }
-      ]
-    },
-    {
-      "id": "Q8SATBUCWE",
-      "title": "Languages",
-      "items": [
-        {
-          "id": "4M5N7Q8R9S",
-          "name": "polish (C2)"
-        },
-        {
-          "id": "H2J4M5N6P8",
-          "name": "russian (C2)"
-        },
-        {
-          "id": "ZH2J4M5N6Q",
-          "name": "english (B2)"
-        }
-      ]
-    },
-    {
-      "id": "DWEXGZH2J4",
-      "title": "Hobby",
-      "items": [
-        {
-          "id": "TBUDWEXFZH",
-          "name": "Tricking"
-        },
-        {
-          "id": "8RATBUCWEX",
-          "name": "Sport gymnastics"
-        },
-        {
-          "id": "N7Q8R9TBUC",
-          "name": "Travels"
-        }
-      ]
-    }
-  ],
-  "about": {
-    "id": "7Q9SATBVDW",
-    "title": "About me",
-    "text": "I am passionate about programming and creating beautiful things. I have been programming for three years, and for the past two years, I have been working on commercial projects. Over the last six months, I have focused on learning React, Next.js, and Typescript technologies."
+  "skills": {
+    "id": "H2K4M5N7Q8",
+    "title": "Skills",
+    "items": [
+      {
+        "id": "P7R9SATCVD",
+        "name": "HTML"
+      },
+      {
+        "id": "4N6P7Q9SAT",
+        "name": "CSS"
+      },
+      {
+        "id": "YGZH3K4M5P",
+        "name": "Javascript"
+      },
+      {
+        "id": "4N2P7Q9SAR",
+        "name": "Sass"
+      },
+      {
+        "id": "YGJH3K4M5P",
+        "name": "Typescript"
+      },
+      {
+        "id": "J3K4M6P7Q8",
+        "name": "Tailwind"
+      },
+      {
+        "id": "SATBVDWEXG",
+        "name": "React"
+      },
+      {
+        "id": "9RTJVDW2XG",
+        "name": "Next"
+      },
+      {
+        "id": "DWEYGZH2K4",
+        "name": "Alpine"
+      },
+      {
+        "id": "9RTJ2DW0MG",
+        "name": "Strapi"
+      },
+      {
+        "id": "TBVDWEXGZH",
+        "name": "Statamic"
+      },
+      {
+        "id": "8SATBUDWEX",
+        "name": "Figma"
+      },
+      {
+        "id": "P7Q8RATBUC",
+        "name": "Git"
+      }
+    ]
+  },
+  "languages": {
+    "id": "Q8SATXUCWE",
+    "title": "Languages",
+    "items": [
+      {
+        "id": "ZH2J4M5N6Q",
+        "name": "English",
+        "flag": "great-britain",
+        "level": "upper-intermediate"
+      },
+      {
+        "id": "4M5N7Q8R9S",
+        "name": "Polish",
+        "flag": "poland",
+        "level": "fluent"
+      },
+      {
+        "id": "H2J4M5N6P8",
+        "name": "Russian",
+        "flag": "russia",
+        "level": "native"
+      }
+    ]
+  },
+  "hobby": {
+    "id": "DWEX3ZH2J4",
+    "title": "Hobby",
+    "items": [
+      {
+        "id": "TBUDWEXFZH",
+        "name": "Martial Arts Tricking"
+      },
+      {
+        "id": "8RATBUCWEX",
+        "name": "Sport gymnastics"
+      },
+      {
+        "id": "N7Q8R9TBUC",
+        "name": "Travels"
+      }
+    ]
   },
   "experience": {
     "id": "7Q8R9SBUCV",
     "title": "Experience",
-    "headings_color": "#EC4889",
     "items": [
+      {
+        "id": "H3R9SWTCVD",
+        "company": "Self-education",
+        "position": "Frontend developer",
+        "time": "03.2023 - present",
+        "description": [
+          {
+            "id": "ABC123XYZ",
+            "text": "Learning new technologies such as React, Next, Typescript, and recently started exploring backend tools like Node and Express."
+          },
+          {
+            "id": "DEF456UVW",
+            "text": "Designing user interfaces (UI/UX) in the Figma."
+          },
+          {
+            "id": "GHI789LMN",
+            "text": "Creating personal projects that encompass both frontend and backend layers."
+          }
+        ],
+        "portfolio": [
+          {
+            "id": "P7R23XTCVD",
+            "label": "moreporfavor-staging.vercel.app",
+            "link": "https://moreporfavor-staging.vercel.app/",
+            "in_progress": true
+          }
+        ]
+      },
       {
         "id": "P7R9SATCVD",
         "company": "4dmind",
@@ -112,35 +147,59 @@
         "description": [
           {
             "id": "ZH3K4M5P7Q",
-            "text": "Creating i editing web pages, using technologies such as: HTML, CSS, Javascript, TailwindCss, Alpine.js"
+            "text": "Creating and editing websites, using technologies: HTML, CSS, Javascript, TailwindCss, Alpine.js and Statamic CMS."
           },
           {
             "id": "EYGZH2K4M5",
-            "text": "Creating reusable components"
-          },
-          {
-            "id": "ATBUDWEXFZ",
-            "text": "Migration from the old to the new version of CMS"
+            "text": "Creating reusable components."
           },
           {
             "id": "5N7Q8R9SBU",
-            "text": "Migration from other CMS"
+            "text": "Migration from other CMS and the older version of Statamic CMS."
           },
           {
             "id": "VDWEXGZH2J",
-            "text": "Improvement performance and SEO"
+            "text": "Improvement Performance and SEO."
           },
           {
             "id": "ZH2J3K5N6P",
-            "text": "Creating documentations"
-          },
-          {
-            "id": "Q8RATBUCWE",
-            "text": "Introducing customers to the system"
+            "text": "Creating documentation and introducing customers to the system."
           },
           {
             "id": "J4M5N6P8R9",
-            "text": "Support for customers from Poland and abroad"
+            "text": "Technical support for customers from Poland and abroad."
+          }
+        ],
+        "portfolio": [
+          {
+            "id": "YGZD3K4M6P",
+            "label": "4dmind.com",
+            "link": "https://4dmind.com/",
+            "in_progress": false
+          },
+          {
+            "id": "4M5N7Q8P9T",
+            "label": "highlandsolutions.com",
+            "link": "https://highlandsolutions.com/",
+            "in_progress": false
+          },
+          {
+            "id": "2SATBVDWEX",
+            "label": "rapidrobotics.com",
+            "link": "https://www.rapidrobotics.com/",
+            "in_progress": false
+          },
+          {
+            "id": "9SATBVFW3X",
+            "label": "mathriders.pl",
+            "link": "https://mathriders.pl/",
+            "in_progress": false
+          },
+          {
+            "id": "9SZTBFDWEX",
+            "label": "northendeavor.com",
+            "link": "https://northendeavor.com/",
+            "in_progress": false
           }
         ]
       },
@@ -152,11 +211,7 @@
         "description": [
           {
             "id": "6P7Q8SATBU",
-            "text": "Teaching elements of acrobatics/gymnastics"
-          },
-          {
-            "id": "UCVDXFYGZJ",
-            "text": "Conducting personal and group classes for children"
+            "text": "Teaching elements of acrobatics/gymnastics in personal and group classes."
           }
         ]
       }
@@ -169,10 +224,10 @@
     "items": [
       {
         "id": "KQR9T3UC8E",
-        "institution": "WIT Warsaw school of Information Technology",
+        "institution": "University College of Enterprise and Administration in Lublin",
         "education_title": "Bachelor of Engineering",
-        "time": "2023",
-        "description": "specialisation: IT Management"
+        "time": "2023 - present",
+        "description": "specialisation: Computer science"
       },
       {
         "id": "Q8R9TBUCVE",
@@ -180,43 +235,6 @@
         "education_title": "Vocational education",
         "time": "2017 - 2019",
         "description": "specialisation: Massage therapist"
-      }
-    ]
-  },
-  "portfolio": {
-    "id": "H2J3K5N6P7",
-    "title": "Portfolio",
-    "headings_color": "#61C25E",
-    "items": [
-      {
-        "id": "YGZJ3K4M6P",
-        "name": "4dmind.com",
-        "link": "https://4dmind.com/",
-        "description": ""
-      },
-      {
-        "id": "4M5N7Q8R9T",
-        "name": "highlandsolutions.com",
-        "link": "https://highlandsolutions.com/",
-        "description": ""
-      },
-      {
-        "id": "9SATBVDWEX",
-        "name": "rapidrobotics.com",
-        "link": "https://www.rapidrobotics.com/",
-        "description": ""
-      },
-      {
-        "id": "9SATBVDW3X",
-        "name": "mathriders.pl",
-        "link": "https://mathriders.pl/",
-        "description": ""
-      },
-      {
-        "id": "9SATBFDWEX",
-        "name": "northendeavor.com",
-        "link": "https://northendeavor.com/",
-        "description": ""
       }
     ]
   }
