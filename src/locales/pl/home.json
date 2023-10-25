@@ -5,7 +5,7 @@
   "email": "artemdanilow95@gmail.com",
   "phone": "+48 797 667 497",
   "github": "https://github.com/ArtemDanilov",
-  "about_text": "Posiadam dwuletnie doświadczenie komercyjne jako Frontend developer, podczas którego budowałem strony internetowe oparte o Statamic CMS. Przed rozpoczęciem pierwszej pracy jako programista przez około rok czasu czerpałem wiedzę z szerokopojętego internetu. Od marca tego roku postanowiłem poszerzyć horyzonty i poszukać nowych wyzwań.",
+  "about_text": "Jestem programistą frontend z dwuletnim doświadczeniem komercyjnym w tworzeniu stron internetowych. Przed rozpoczęciem pierwszej pracy jako programista przez około rok czerpałem wiedzę z szerokopojętego internetu. Od marca tego roku postanowiłem poszerzyć horyzonty i poszukać nowych wyzwań.",
   "recruitment_agreement": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).",
   "skills": {
     "id": "H2K4M5N7Q8",
@@ -79,7 +79,7 @@
         "id": "ZH2J4M5N6Q",
         "name": "Angielski",
         "flag": "great-britain",
-        "level": "średnio-zaawansowany"
+        "level": "średnio-zaawansowany wyższy"
       },
       {
         "id": "H2J4M5N6P8",
@@ -115,7 +115,7 @@
         "id": "H3R9SWTCVD",
         "company": "Samoedukacja",
         "position": "Frontend developer",
-        "time": "02.2023 - obecnie",
+        "time": "03.2023 - obecnie",
         "description": [
           {
             "id": "ZH3K4M5P7Q",
@@ -123,7 +123,7 @@
           },
           {
             "id": "ZH3K4M597Q",
-            "text": "Projektowanie interfejsów użytkownika (UI/UX) w narzędziu Figma."
+            "text": "Projektowanie interfejsów użytkownika (UI/UX) w Figmie."
           },
           {
             "id": "ZH3K4N5P7Q",
@@ -163,7 +163,7 @@
           },
           {
             "id": "ATBUDWEXFZ",
-            "text": "Tworzenie dokumentacji oraz przyprowadzanie szkoleń z obsługi CMS."
+            "text": "Tworzenie dokumentacji oraz przeprowadzanie szkoleń z obsługi CMS."
           },
           {
             "id": "J4M5N6P8R9",
@@ -212,10 +212,6 @@
           {
             "id": "6P7Q8SATBU",
             "text": "Nauczanie elementów akrobatycznych/gimnastycznych w grupach i indywidualnie."
-          },
-          {
-            "id": "UCVDXFYGZJ",
-            "text": "Poprawa kondycji, siły i gibkości uczęstników zajęć."
           }
         ]
       }

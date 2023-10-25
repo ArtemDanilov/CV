@@ -5,7 +5,7 @@
   "email": "artemdanilow95@gmail.com",
   "phone": "+48 797 667 497",
   "github": "https://github.com/ArtemDanilov",
-  "about_text": "I have got 2 years of professional experience as a Frontend developer, during which i was building websites based on Statamic CMS. Before starting the job as a programmer, I spent around one year learning basic technologies from the internet. From march this year I decided to broaden my horizons and find new challenges.",
+  "about_text": "I'm frontend developer with 2 years of professional experience building websites. Before starting my first job as a programmer, I spent almost a year seeking for knowledge and developing my programming skills. In March this year I decided to broaden my horizons and search for new challenges.",
   "recruitment_agreement": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
   "skills": {
     "id": "H2K4M5N7Q8",
@@ -115,11 +115,11 @@
         "id": "H3R9SWTCVD",
         "company": "Self-education",
         "position": "Frontend developer",
-        "time": "02.2023 - present",
+        "time": "03.2023 - present",
         "description": [
           {
             "id": "ABC123XYZ",
-            "text": "Learning new technologies such as React, Next, Typescript, and recently started explore backend tools like Node and Express."
+            "text": "Learning new technologies such as React, Next, Typescript, and recently started exploring backend tools like Node and Express."
           },
           {
             "id": "DEF456UVW",
@@ -147,19 +147,15 @@
         "description": [
           {
             "id": "ZH3K4M5P7Q",
-            "text": "Creating and editing web pages, using technologies: HTML, CSS, Javascript, TailwindCss, Alpine.js and Statamic CMS."
+            "text": "Creating and editing websites, using technologies: HTML, CSS, Javascript, TailwindCss, Alpine.js and Statamic CMS."
           },
           {
             "id": "EYGZH2K4M5",
             "text": "Creating reusable components."
           },
           {
-            "id": "ATBUDWEXFZ",
-            "text": "Migration from the old to the new version of CMS."
-          },
-          {
             "id": "5N7Q8R9SBU",
-            "text": "Migration from other CMS and the old version of Statamic CMS."
+            "text": "Migration from other CMS and the older version of Statamic CMS."
           },
           {
             "id": "VDWEXGZH2J",
@@ -215,11 +211,7 @@
         "description": [
           {
             "id": "6P7Q8SATBU",
-            "text": "Teaching elements of acrobatics/gymnastics in group classes and personal."
-          },
-          {
-            "id": "UCVDXFYGZJ",
-            "text": "Improving health condition, strength and flexibility the participants of the classes."
+            "text": "Teaching elements of acrobatics/gymnastics in personal and group classes."
           }
         ]
       }
