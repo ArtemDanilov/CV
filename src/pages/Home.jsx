@@ -73,7 +73,7 @@ const Home = () => {
         </Container>
 
         <Container title={t("soft_skills.title")}>
-          <ul className="mx-auto columns-2">
+          <ul className="mx-auto md:columns-2">
             {softSkills.items.map((item) => (
               <li
                 key={item.id}
