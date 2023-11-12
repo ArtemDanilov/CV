@@ -14,10 +14,10 @@ const Home = () => {
   const { t } = useTranslation();
   const lang = window.localStorage.i18nextLng;
 
-  const skills = t("skills", { returnObjects: true });
+  const hardSkills = t("hard_skills", { returnObjects: true });
+  const softSkills = t("soft_skills", { returnObjects: true });
   const languages = t("languages", { returnObjects: true });
   const hobby = t("hobby", { returnObjects: true });
-  const about = t("about_text", { returnObjects: true });
   const experience = t("experience", { returnObjects: true });
   const education = t("education", { returnObjects: true });
 
@@ -49,9 +49,9 @@ const Home = () => {
           {t("about_text")}
         </Container>
 
-        <Container title={t("skills.title")}>
+        <Container title={t("hard_skills.title")}>
           <ul className="mx-auto flex gap-4 flex-wrap">
-            {skills.items.map((item) => (
+            {hardSkills.items.map((item) => (
               <li
                 key={item.id}
                 className="text-sm text-center font-sans p-2 lg:text-base"
@@ -66,6 +66,19 @@ const Home = () => {
                   height="32"
                   className="mx-auto mb-1"
                 />
+                {item.name}
+              </li>
+            ))}
+          </ul>
+        </Container>
+
+        <Container title={t("soft_skills.title")}>
+          <ul className="mx-auto columns-2">
+            {softSkills.items.map((item) => (
+              <li
+                key={item.id}
+                className="text-base font-sans p-1 lg:text-base"
+              >
                 {item.name}
               </li>
             ))}
