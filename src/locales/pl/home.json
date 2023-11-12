@@ -7,12 +7,12 @@
   "github": "https://github.com/ArtemDanilov",
   "about_text": "Jestem programistą frontend z dwuletnim doświadczeniem komercyjnym w tworzeniu stron internetowych. Przed rozpoczęciem pierwszej pracy jako programista przez około rok czerpałem wiedzę z szerokopojętego internetu. Od marca tego roku postanowiłem poszerzyć horyzonty i poszukać nowych wyzwań.",
   "recruitment_agreement": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).",
-  "skills": {
+  "hard_skills": {
     "id": "H2K4M5N7Q8",
-    "title": "Umiejętności",
+    "title": "Umiejętności twarde",
     "items": [
       {
-        "id": "P7R9SATCVD",
+        "id": "IBD89562S6",
         "name": "HTML"
       },
       {
@@ -62,6 +62,36 @@
       {
         "id": "P7Q8RATBUC",
         "name": "Git"
+      }
+    ]
+  },
+  "soft_skills": {
+    "id": "OET3XI466",
+    "title": "Umiejętności miękkie",
+    "items": [
+      {
+        "id": "SXZ74370Z1",
+        "name": "Komunikacja interpersonalna"
+      },
+      {
+        "id": "JUY9185MN",
+        "name": "Umiejętność pracy zespołowej"
+      },
+      {
+        "id": "DDL48390R",
+        "name": "Odporność psychiczna"
+      },
+      {
+        "id": "ADO7992E8",
+        "name": "Zaangażowanie"
+      },
+      {
+        "id": "OPS25551L3",
+        "name": "Adaptacyjność"
+      },
+      {
+        "id": "PKU489035L",
+        "name": "Samodyscyplina"
       }
     ]
   },
@@ -119,7 +149,7 @@
         "description": [
           {
             "id": "ZH3K4M5P7Q",
-            "text": "Nauka nowych technologii takich jak: React, Next, Typescript, a od niedawna rozpoczęcie nauki narzędzi backendowych Node i Express."
+            "text": "Nauka nowych technologii takich jak: React, Next, Typescript."
           },
           {
             "id": "ZH3K4M597Q",
@@ -212,6 +242,42 @@
           {
             "id": "6P7Q8SATBU",
             "text": "Nauczanie elementów akrobatycznych/gimnastycznych w grupach i indywidualnie."
+          }
+        ]
+      },
+      {
+        "id": "KYFYG2J2S4",
+        "company": "ITAKA (praca sezonowa)",
+        "position": "Animator",
+        "time": "06.2019 - 09.2019",
+        "description": [
+          {
+            "id": "6P7Q7S7TB2",
+            "text": "Organizacja aktywności dla międzynarodowych grup turystów w hotelu w Bułgarii."
+          },
+          {
+            "id": "P6GFL7MN3",
+            "text": "Wsparcie rezydentów w transferach lotniskowych."
+          }
+        ]
+      },
+      {
+        "id": "4UFYL2J3E4",
+        "company": "DTMO GLOBAL",
+        "position": "Grafik komputerowy",
+        "time": "02.2018 - 08.2018",
+        "description": [
+          {
+            "id": "P27QMEATBU",
+            "text": "Zarządzanie stronami w CMS."
+          },
+          {
+            "id": "X97Q8S4TBU",
+            "text": "Wprowadzanie zmian w kodzie HTML i CSS."
+          },
+          {
+            "id": "6P7Q8SARIU",
+            "text": "Tworzenie obrazów i banerów reklamowych (statycznych i animowanych)."
           }
         ]
       }

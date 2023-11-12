@@ -7,12 +7,12 @@
   "github": "https://github.com/ArtemDanilov",
   "about_text": "I'm frontend developer with 2 years of professional experience building websites. Before starting my first job as a programmer, I spent almost a year seeking for knowledge and developing my programming skills. In March this year I decided to broaden my horizons and search for new challenges.",
   "recruitment_agreement": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
-  "skills": {
+  "hard_skills": {
     "id": "H2K4M5N7Q8",
-    "title": "Skills",
+    "title": "Hard skills",
     "items": [
       {
-        "id": "P7R9SATCVD",
+        "id": "P7R9SAXOVD",
         "name": "HTML"
       },
       {
@@ -62,6 +62,36 @@
       {
         "id": "P7Q8RATBUC",
         "name": "Git"
+      }
+    ]
+  },
+  "soft_skills": {
+    "id": "YYI82X2U0",
+    "title": "Soft skills",
+    "items": [
+      {
+        "id": "OET300466",
+        "name": "Interpersonal communication"
+      },
+      {
+        "id": "JSH3786S55",
+        "name": "Teamwork skills"
+      },
+      {
+        "id": "SGN279634V",
+        "name": "Mental toughness"
+      },
+      {
+        "id": "WVR25031A1",
+        "name": "Engagement"
+      },
+      {
+        "id": "NKD9049R75",
+        "name": "Adaptability"
+      },
+      {
+        "id": "IPY76097X4",
+        "name": "Self-discipline"
       }
     ]
   },
@@ -119,7 +149,7 @@
         "description": [
           {
             "id": "ABC123XYZ",
-            "text": "Learning new technologies such as React, Next, Typescript, and recently started exploring backend tools like Node and Express."
+            "text": "Learning new technologies such as React, Next, Typescript."
           },
           {
             "id": "DEF456UVW",
@@ -212,6 +242,46 @@
           {
             "id": "6P7Q8SATBU",
             "text": "Teaching elements of acrobatics/gymnastics in personal and group classes."
+          }
+        ]
+      },
+      {
+        "id": "KYFYG2J2S4",
+        "company": "ITAKA (Seasonal Work)",
+        "position": "Animator",
+        "time": "06.2019 - 09.2019",
+        "description": [
+          {
+            "id": "6P7Q7S7TB2",
+            "text": "Work with international tourist groups in Bulgaria hotel."
+          },
+          {
+            "id": "4J7Q9T7TZ9",
+            "text": "Organizing activities for children and adults."
+          },
+          {
+            "id": "P6GFL7MN3",
+            "text": "Assistance in organizing tourist transfers."
+          }
+        ]
+      },
+      {
+        "id": "RBU621D467",
+        "company": "DTMO GLOBAL",
+        "position": "Computer graphic",
+        "time": "02.2018 - 08.2018",
+        "description": [
+          {
+            "id": "ZET542L278",
+            "text": "Managing pages in CMS."
+          },
+          {
+            "id": "LUM9365V80",
+            "text": "Making changes in HTML and CSS code."
+          },
+          {
+            "id": "KNV716Z680",
+            "text": "Creating pictures and advertising banners (static and animated)."
           }
         ]
       }
