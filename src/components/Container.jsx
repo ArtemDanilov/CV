@@ -10,7 +10,7 @@ const Container = ({ children, title, className = "" }) => {
       `}
     >
       <div className="w-full pt-4 pb-2 mb-4 col-start-1 col-end-2 border-b md:pb-4 md:mb-0 md:border-0 print:mb-0 print:pb-4 print:border-0">
-        <h2 className="text-xl font-bold font-sans text-zinc-700 mr-4 md:text-right print:text-right md:w-min md:ml-auto">
+        <h2 className="text-xl font-bold font-sans text-zinc-700 mr-4 md:text-right print:text-right print:max-w-[12rem] print:ml-auto md:max-w-[12rem] md:ml-auto">
           {title}
         </h2>
       </div>
