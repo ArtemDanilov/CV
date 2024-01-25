@@ -24,16 +24,16 @@
         "name": "Javascript"
       },
       {
+        "id": "9RTJ2DW0MG",
+        "name": "PHP"
+      },
+      {
         "id": "4N2P7Q9SAR",
         "name": "Sass"
       },
       {
         "id": "YGJH3K4M5P",
         "name": "Typescript"
-      },
-      {
-        "id": "J3K4M6P7Q8",
-        "name": "Tailwind"
       },
       {
         "id": "SATBVDWEXG",
@@ -48,8 +48,12 @@
         "name": "Alpine"
       },
       {
-        "id": "9RTJ2DW0MG",
-        "name": "Strapi"
+        "id": "DWEYG7H2K4",
+        "name": "Livewire"
+      },
+      {
+        "id": "J3K4M6P7Q8",
+        "name": "Tailwind"
       },
       {
         "id": "TBVDWEXGZH",
@@ -143,8 +147,8 @@
     "items": [
       {
         "id": "H3R9SWTCVD",
-        "company": "Self-education",
-        "position": "Frontend developer",
+        "company": "Freelance",
+        "position": "Web developer",
         "time": "03.2023 - present",
         "description": [
           {
@@ -152,20 +156,24 @@
             "text": "Learning new technologies such as React, Next, Typescript."
           },
           {
+            "id": "DE2456UXW",
+            "text": "Communicating with clients to understand their expectations and coordinating programming activities to meet their needs."
+          },
+          {
             "id": "DEF456UVW",
             "text": "Designing user interfaces (UI/UX) in the Figma."
           },
           {
             "id": "GHI789LMN",
-            "text": "Creating personal projects that encompass both frontend and backend layers."
+            "text": "Programming frontend and backend."
           }
         ],
         "portfolio": [
           {
             "id": "P7R23XTCVD",
-            "label": "moreporfavor-staging.vercel.app",
-            "link": "https://moreporfavor-staging.vercel.app/",
-            "in_progress": true
+            "label": "moreporfavor.pl",
+            "link": "https://moreporfavor.pl/",
+            "in_progress": false
           }
         ]
       },
@@ -292,13 +300,6 @@
     "title": "Education",
     "headings_color": "#3B82F6",
     "items": [
-      {
-        "id": "KQR9T3UC8E",
-        "institution": "University College of Enterprise and Administration in Lublin",
-        "education_title": "Bachelor of Engineering",
-        "time": "2023 - present",
-        "description": "specialisation: Computer science"
-      },
       {
         "id": "Q8R9TBUCVE",
         "institution": "POST-SECONDARY COLLEGE OF SPORT MEDICINE",
