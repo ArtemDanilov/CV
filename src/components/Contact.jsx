@@ -3,14 +3,14 @@ import { useTranslation } from "react-i18next";
 
 import { ReactComponent as Phone } from "../assets/svg/phone.svg";
 import { ReactComponent as Email } from "../assets/svg/email.svg";
-// import { ReactComponent as Github } from "../assets/svg/github.svg";
+import { ReactComponent as Github } from "../assets/svg/github.svg";
 
 const Contact = () => {
   const { t } = useTranslation();
 
-  // const simplifyLink = (link) => {
-  //   return link.substring(8);
-  // };
+  const simplifyLink = (link) => {
+    return link.substring(8);
+  };
 
   return (
     <address className="not-italic space-y-1">
@@ -28,7 +28,7 @@ const Contact = () => {
         <Phone className="link_icon w-5 h-4" />
         <span>{t("phone")}</span>
       </a>
-      {/* <a
+      <a
         href={t("github")}
         className="flex items-center space-x-2 hover:text-green-600"
         target="_blank"
@@ -36,7 +36,7 @@ const Contact = () => {
       >
         <Github className="w-5 h-5" />
         <span>{simplifyLink(t("github"))}</span>
-      </a> */}
+      </a>
     </address>
   );
 };

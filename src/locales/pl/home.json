@@ -5,7 +5,7 @@
   "email": "artemdanilow95@gmail.com",
   "phone": "+48 797 667 497",
   "github": "https://github.com/ArtemDanilov",
-  "about_text": "Jestem programistą z 3 letnim doświadczeniem komercyjnym w tworzeniu stron internetowych. Przed rozpoczęciem pierwszej pracy jako programista przez około rok czerpałem wiedzę z szerokopojętego internetu. Od marca tego roku postanowiłem poszerzyć horyzonty i poszukać nowych wyzwań.",
+  "about_text": "Jestem programistą z ponad 3 letnim doświadczeniem komercyjnym w tworzeniu stron internetowych. Jestem w stanie postawić stronę od A do Z, a czasem nawet zaprojektować UI. W wolnym czasie zajmuję się sportem i własnymi projektami.",
   "recruitment_agreement": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).",
   "hard_skills": {
     "id": "H2K4M5N7Q8",
@@ -152,10 +152,6 @@
         "time": "03.2023 - obecnie",
         "description": [
           {
-            "id": "ZH3K4M5P7Q",
-            "text": "Nauka nowych technologii takich jak: PHP, React, Next, Typescript."
-          },
-          {
             "id": "ZH3K4M59LQ",
             "text": "Komunikowanie się z klientami w celu zrozumienia ich oczekiwań oraz skoordynowania działań programistycznych z ich potrzebami."
           },
@@ -169,6 +165,18 @@
           }
         ],
         "portfolio": [
+          {
+            "id": "I2P93LTXVM",
+            "label": "camps.grawitacja.com.pl",
+            "link": "/cv/assets/grawitacja-figma-screen.png",
+            "in_progress": true
+          },
+          {
+            "id": "17R93LTXVD",
+            "label": "flexipic statamic addon",
+            "link": "https://statamic.com/addons/artemdanilov/flexipic",
+            "in_progress": false
+          },
           {
             "id": "P7R93LTCVD",
             "label": "moreporfavor.pl",
@@ -238,34 +246,6 @@
             "label": "northendeavor.com",
             "link": "https://northendeavor.com/",
             "in_progress": false
-          }
-        ]
-      },
-      {
-        "id": "EXFYG2J3K4",
-        "company": "GRAWITACJA SPORT ACADEMY (PRACA DORYWCZA)",
-        "position": "Instruktor akrobatyki",
-        "time": "05.2018 - obecnie",
-        "description": [
-          {
-            "id": "6P7Q8SATBU",
-            "text": "Nauczanie elementów akrobatycznych/gimnastycznych w grupach i indywidualnie."
-          }
-        ]
-      },
-      {
-        "id": "KYFYG2J2S4",
-        "company": "ITAKA (praca sezonowa)",
-        "position": "Animator",
-        "time": "06.2019 - 09.2019",
-        "description": [
-          {
-            "id": "6P7Q7S7TB2",
-            "text": "Organizacja aktywności dla międzynarodowych grup turystów w hotelu w Bułgarii."
-          },
-          {
-            "id": "P6GFL7MN3",
-            "text": "Wsparcie rezydentów w transferach lotniskowych."
           }
         ]
       },
