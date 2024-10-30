@@ -5,7 +5,7 @@
   "email": "artemdanilow95@gmail.com",
   "phone": "+48 797 667 497",
   "github": "https://github.com/ArtemDanilov",
-  "about_text": "I am a programmer with over 3 years of commercial experience in creating websites. I am capable of building a website from A to Z, and sometimes even designing the UI. In my free time, I enjoy sports and working on my own projects.",
+  "about_text": "I am a developer with over 3 years of experience in building websites. I specialize in managing projects from concept to deployment and have foundational skills in UI design. Outside of work, I enjoy working on personal projects and staying active through sports.",
   "recruitment_agreement": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).",
   "hard_skills": {
     "id": "H2K4M5N7Q8",
@@ -32,16 +32,8 @@
         "name": "Sass"
       },
       {
-        "id": "YGJH3K4M5P",
-        "name": "Typescript"
-      },
-      {
         "id": "SATBVDWEXG",
         "name": "React"
-      },
-      {
-        "id": "9RTJVDW2XG",
-        "name": "Next"
       },
       {
         "id": "DWEYGZH2K4",
@@ -182,6 +174,30 @@
             "label": "moreporfavor.pl",
             "link": "https://moreporfavor.pl/",
             "in_progress": false
+          }
+        ]
+      },
+      {
+        "id": "H3R9SWT3VD",
+        "company": "42 Warsaw",
+        "position": "Piscinier",
+        "time": "08.2024 - 09.2024",
+        "description": [
+          {
+            "id": "ZH3K4M59SQ",
+            "text": "Learning based on the Peer-to-Peer (P2P) method."
+          },
+          {
+            "id": "2H3K43597Q",
+            "text": "Collaboration with people from different countries and cultures."
+          },
+          {
+            "id": "ZH3K4N5PMQ",
+            "text": "Developing programming skills in C, with a focus on algorithms, data structures, and code optimization."
+          },
+          {
+            "id": "ZH3K4N5XMP",
+            "text": "Active participation in workshops and organizational meetings."
           }
         ]
       },

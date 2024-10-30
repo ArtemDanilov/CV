@@ -5,7 +5,7 @@
   "email": "artemdanilow95@gmail.com",
   "phone": "+48 797 667 497",
   "github": "https://github.com/ArtemDanilov",
-  "about_text": "Jestem programistą z ponad 3 letnim doświadczeniem komercyjnym w tworzeniu stron internetowych. Jestem w stanie postawić stronę od A do Z, a czasem nawet zaprojektować UI. W wolnym czasie zajmuję się sportem i własnymi projektami.",
+  "about_text": "Jestem programistą z ponad 3-letnim doświadczeniem w tworzeniu stron internetowych. Specjalizuję się w realizacji projektów od etapu koncepcji po wdrożenie, a także posiadam podstawowe umiejętności projektowania UI. Poza pracą rozwijam własne projekty oraz aktywnie spędzam czas, uprawiając sport.",
   "recruitment_agreement": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).",
   "hard_skills": {
     "id": "H2K4M5N7Q8",
@@ -32,16 +32,8 @@
         "name": "Sass"
       },
       {
-        "id": "YGZH3K2M5P",
-        "name": "Typescript"
-      },
-      {
         "id": "SATBVDWEXG",
         "name": "React"
-      },
-      {
-        "id": "32TJWD6OXG",
-        "name": "Next"
       },
       {
         "id": "DWEYGZH2K4",
@@ -182,6 +174,30 @@
             "label": "moreporfavor.pl",
             "link": "https://moreporfavor.pl/",
             "in_progress": false
+          }
+        ]
+      },
+      {
+        "id": "H3R9SWT3VD",
+        "company": "42 Warsaw",
+        "position": "Piscinier",
+        "time": "08.2024 - 09.2024",
+        "description": [
+          {
+            "id": "ZH3K4M59SQ",
+            "text": "Nauka, oparta na metodzie Peer to Peer."
+          },
+          {
+            "id": "2H3K43597Q",
+            "text": "Współpraca z osobami z różnych krajów i kultur."
+          },
+          {
+            "id": "ZH3K4N5PMQ",
+            "text": "Rozwijanie umiejętności programowania w języku C, z naciskiem na algorytmy, struktury danych i optymalizację kodu."
+          },
+          {
+            "id": "ZH3K4N5XMP",
+            "text": "Aktywny udział w warsztatach i spotkaniach organizacyjnych."
           }
         ]
       },
